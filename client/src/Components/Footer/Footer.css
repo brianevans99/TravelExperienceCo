@@ -1,0 +1,79 @@
+.footer-top {
+  background: #1f2b30;
+  padding: 20px 0 20px 0;
+}
+.footer-bottom {
+  padding: 10px 0 0 0;
+  background: #192226;
+}
+.footer-bottom a {
+  text-decoration: none;
+  padding: 0 !important;
+}
+.footer-bottom p {
+  margin: 5px 0 auto 0;
+}
+.footer-bottom li a:hover {
+  color: #fff !important;
+  font-size: small;
+}
+#yellow-text {
+  color: #f8d23a;
+}
+#hr {
+  background-color: rgba(255, 255, 255, 0.5);
+  margin: 0;
+}
+#footer-logo img {
+  width: 40px;
+  margin-right: 10px;
+}
+#footer-logo span {
+  display: inline-flex;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  color: #77bc00 !important;
+}
+#social-links a {
+  font-size: 1em;
+}
+#social-links i.fa-facebook-square:hover {
+  color: rgba(57, 86, 156, 1);
+}
+#social-links i.fa-linkedin:hover {
+  color: rgba(0, 114, 177, 1);
+}
+#social-links i.fa-youtube-square:hover {
+  color: rgba(196, 48, 43, 1);
+}
+#social-links i.fa-twitter-square:hover {
+  color: rgba(0, 172, 238, 1);
+}
+#social-links i.fa-instagram-square:hover {
+  color: rgba(63, 114, 155, 1);
+}
+
+#social-links li {
+  margin: 7px;
+  color: rgba(255, 255, 255, 0.5);
+}
+#bbblogo {
+  max-height: 80px;
+}
+.fa-lg {
+  line-height: 1.1em;
+}
+
+@media (max-width: 767px) {
+  .nav {
+    padding-bottom: 20px;
+  }
+  .nav a {
+    padding: 12px !important;
+  }
+}
+@media (max-width: 480px) {
+  .nav {
+    padding-bottom: 20px;
+  }
+}
