@@ -1,5 +1,5 @@
 import React, { Fragment, Component } from 'react'
-import TopBanner1 from '../../Components/TopBanner1/TopBanner1'
+import TopBanner from '../../Components/TopBanner/TopBanner'
 import img1 from '../../Assets/Images/Carousel/carousel_honeymoon2.jpg'
 
 export default class VacationsPage extends Component {
@@ -13,7 +13,7 @@ export default class VacationsPage extends Component {
     return (
       <Fragment>
         Vacations Page
-        <TopBanner1 imgSrc={this.state.imgSrc} />
+        <TopBanner imgSrc={this.state.imgSrc} />
       </Fragment>
     )
   }
