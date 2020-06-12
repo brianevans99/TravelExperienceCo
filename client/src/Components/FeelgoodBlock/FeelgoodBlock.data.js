@@ -7,7 +7,7 @@ export default [
     imgSrc: <FcGlobe />,
     title: 'Passionate Travelers',
     tagline:
-      'Your consultant is also experienced travelers with a desire to help you see the world.',
+      'Your consultant is also an experienced traveler with a desire to help you see the world.',
   },
   {
     id: 2,
