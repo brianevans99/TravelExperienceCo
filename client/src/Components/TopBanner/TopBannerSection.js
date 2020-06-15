@@ -2,7 +2,7 @@ import React from 'react'
 import TopBannerData from './TopBannerData'
 
 export default function TopBannerSection() {
-  const data = TopBannerData[Math.floor(Math.random() * 1)]
+  const data = TopBannerData[Math.floor(Math.random() * 4)]
 
   return (
     <div

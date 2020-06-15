@@ -16,7 +16,6 @@ export default class Home extends Component {
     return (
       <Fragment>
         <TopBannerSection />
-        <SearchBar />
         <FeelgoodSection />
         <Updates />
         <VideoBlock />
