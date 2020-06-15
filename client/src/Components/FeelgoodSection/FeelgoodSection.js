@@ -1,8 +1,8 @@
 import React from 'react'
-import FeelgoodBlock from '../FeelgoodBlock/FeelgoodBlock'
-import FeelgoodData from '../FeelgoodBlock/FeelgoodBlock.data.js'
+import FeelgoodBlock from './FeelgoodBlock'
+import FeelgoodData from './FeelgoodBlock.data.js'
 
-export default function Section() {
+export default function FeelgoodSection() {
   const feelgoodItems = FeelgoodData.map((item) => (
     <FeelgoodBlock key={item.id} item={item} />
   ))
