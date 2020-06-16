@@ -12,9 +12,9 @@ export default class VideoBlock extends Component {
       },
     }
     return (
-      <div className='flex justify-center'>
+      <div className='bg-black flex justify-center'>
         <YouTube
-          className='w-screen'
+          className='max-w-full'
           videoId='tgyynfhvTnQ'
           opts={opts}
           onReady={this._onReady}

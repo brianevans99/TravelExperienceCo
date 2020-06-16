@@ -7,7 +7,7 @@ export default function FeelgoodSection() {
     <FeelgoodBlock key={item.id} item={item} />
   ))
   return (
-    <div className='flex flex-col sm:flex-row bg-gray-500 p-6'>
+    <div className='flex flex-col sm:flex-row bg-gray-400 p-6'>
       {feelgoodItems}
     </div>
   )
