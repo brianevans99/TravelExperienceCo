@@ -16,7 +16,7 @@ export default [
     },
     tagline: {
       text: 'Rugged. Wild. Majestic.',
-      class: 'font-serif text-gray-400',
+      class: 'font-mono text-gray-400',
     },
     outerDivClass: 'justify-center md:justify-end md:items-center',
     innerDivClass:
@@ -26,7 +26,7 @@ export default [
     id: 2,
     image: {
       imgSrc: image2,
-      imgPos: 'bg-left',
+      imgPos: 'bg-center',
     },
     title: {
       text: 'Zen.',
@@ -34,7 +34,7 @@ export default [
     },
     tagline: {
       text: "We'll help you find your spot.",
-      class: 'font-serif text-gray-400',
+      class: 'font-mono text-gray-400',
     },
     outerDivClass: 'justify-end items-end md:items-center',
     innerDivClass:
@@ -44,7 +44,7 @@ export default [
     id: 3,
     image: {
       imgSrc: image3,
-      imgPos: 'bg-left',
+      imgPos: 'bg-right md:bg-center',
     },
     title: {
       text: 'Zen.',
@@ -52,7 +52,7 @@ export default [
     },
     tagline: {
       text: "We'll help you find your spot.",
-      class: 'font-serif text-gray-400',
+      class: 'font-mono text-gray-400',
     },
     outerDivClass: 'justify-end items-end md:items-center',
     innerDivClass:
@@ -62,7 +62,7 @@ export default [
     id: 4,
     image: {
       imgSrc: image4,
-      imgPos: 'bg-bottom',
+      imgPos: 'bg-left md:bg-bottom',
     },
     title: {
       text: 'I do.',
@@ -70,7 +70,7 @@ export default [
     },
     tagline: {
       text: 'Memorable destination weddings are just a click away.',
-      class: 'font-serif text-gray-400',
+      class: 'font-mono text-gray-400',
     },
     outerDivClass: 'justify-center md:justify-start md:items-end',
     innerDivClass:
