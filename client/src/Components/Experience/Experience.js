@@ -9,7 +9,9 @@ export default function Experience() {
           Travel Experience Co. Expertise
         </div>
         <div className='text-center md:w-3/5'>
-          When you book with TEC, we understand that YOUR trip is unique.  You are paired with a travel expert best qualified to prepare a getaway to meet YOUR needs.
+          When you book with TEC, we understand that YOUR trip is unique. You
+          are paired with a travel expert best qualified to prepare a getaway to
+          meet YOUR needs.
         </div>
       </div>
       <div className='md:w-1/2 flex flex-row flex-wrap justify-around py-4'>
@@ -18,7 +20,7 @@ export default function Experience() {
             <FcPhone />
           </div>
           <div className='text-xl'>Contact By Phone</div>
-          <div className='text-blue-700'>706.974.8057</div>
+          <div className='text-blue-700'>770.213.8787</div>
         </div>
         <div className='flex flex-col items-center'>
           <div className='text-2xl'>

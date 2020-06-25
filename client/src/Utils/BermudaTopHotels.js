@@ -18,14 +18,14 @@ class PersonList extends Component {
       headers: {
         'content-type': 'application/json',
         'x-rapidapi-host': 'tripadvisor1.p.rapidapi.com',
-        'x-rapidapi-key': '4c5ccd0533mshb28473c844f5ba9p105d71jsn14db0547192b',
+        'x-rapidapi-key': '',
         useQueryString: true,
       },
       params: {
         currency: 'USD',
-        limit: '3',
+        limit: '6',
         subcategory: 'hotel%2Cbb%2Cspecialty',
-        hotel_class: '2,3,4',
+        hotel_class: '4,5',
         tr_latitude: trLat,
         tr_longitude: trLong,
         bl_latitude: blLat,
