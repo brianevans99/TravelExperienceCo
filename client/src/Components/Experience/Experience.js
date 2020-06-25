@@ -9,9 +9,7 @@ export default function Experience() {
           Travel Experience Co. Expertise
         </div>
         <div className='text-center md:w-3/5'>
-          You are unique, and so is your trip. When you book with Liberty
-          Travel, we match you with an expert best suited to design a vacation
-          just for you.
+          When you book with TEC, we understand that YOUR trip is unique.  You are paired with a travel expert best qualified to prepare a getaway to meet YOUR needs.
         </div>
       </div>
       <div className='md:w-1/2 flex flex-row flex-wrap justify-around py-4'>
