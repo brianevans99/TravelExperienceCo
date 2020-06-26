@@ -18,7 +18,7 @@ class PersonList extends Component {
       headers: {
         'content-type': 'application/json',
         'x-rapidapi-host': 'tripadvisor1.p.rapidapi.com',
-        'x-rapidapi-key': '',
+        'x-rapidapi-key': process.env.REACT_APP_API_KEY,
         useQueryString: true,
       },
       params: {
