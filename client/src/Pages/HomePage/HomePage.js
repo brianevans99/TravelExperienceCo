@@ -1,6 +1,4 @@
 import React, { Component, Fragment } from 'react'
-// import TopBannerSection from '../../Components/TopBanner/TopBannerSection'
-// import SearchBar from '../../Components/SearchBar/SearchBar'
 import FeelgoodSection from '../../Components/FeelgoodSection/FeelgoodSection'
 // import Updates from '../../Components/Updates/Updates'
 import VideoBlock from '../../Components/VideoBlock/VideoBlock'
@@ -17,7 +15,6 @@ export default class Home extends Component {
     return (
       <Fragment>
         <ImageSlider />
-        {/* <TopBannerSection /> */}
         {/* <EnhancedVacation /> */}
         <FeelgoodSection />
         {/* <Updates /> */}

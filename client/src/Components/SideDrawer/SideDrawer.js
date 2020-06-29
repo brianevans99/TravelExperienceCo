@@ -1,26 +1,15 @@
 import React from 'react'
-import './SideDrawer.css'
 
 const SideDrawer = (props) => {
-  let drawerClasses = 'sideDrawer'
+  let translatePosition = '-translate-x-full'
   if (props.show) {
-    drawerClasses = 'sideDrawer open'
+    translatePosition = 'translate-x-0'
   }
+  let drawerClasses = `bg-white w-3/5 max-w-screen-sm h-full fixed top-0 left-0 transform ${translatePosition}`
+
   return (
     <div
-      style={{
-        height: '100%',
-        background: '#fff',
-        position: 'fixed',
-        top: 0,
-        left: 0,
-        width: '70%',
-        maxWidth: '400px',
-        zIndex: 2000,
-        boxShadow: '2px 0px 5px rgba(0,0,0,0.5)',
-        transform: 'translateX(-100%)',
-        transition: 'transform 0.3s ease-out',
-      }}
+      style={{ zIndex: 50, transition: 'transform 0.3s' }}
       className={drawerClasses}
     >
       <nav>
