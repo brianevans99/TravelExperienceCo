@@ -14,16 +14,16 @@ const Toolbar = (props) => (
           className='h-8 md:h-12 m-2'
           alt='Travel Experience Co.'
         />{' '}
-        <span className='m-2 text-green font-sans font-medium text-2xl'>
+        <span className='m-2 text-tecGreen-500 font-sans font-medium text-2xl'>
           Travel Experience Co.
         </span>
       </div>
       <div className='hidden md:block flex'>
-        <ul className='flex text-green '>
-          <li className='m-2 border-b-2 border-transparent hover:border-pink-600'>
+        <ul className='flex text-tecGreen-500 '>
+          <li className='m-2 border-b-2 border-transparent hover:border-tecPink-500'>
             Destinations
           </li>
-          <li className='m-2 border-b-2 border-transparent hover:border-pink-600'>
+          <li className='m-2 border-b-2 border-transparent hover:border-tecPink-500'>
             Services
           </li>
         </ul>
