@@ -18,11 +18,11 @@ const imageData = [
     },
     tagline: {
       text: 'Rugged. Wild. Majestic.',
-      class: 'font-mono text-gray-400',
+      class: 'font-mono text-gray-400 leading-none',
     },
-    outerDivClass: 'justify-center md:justify-end md:items-center',
+    outerDivClass: 'justify-center items-end md:items-start p-2 md:pt-32',
     innerDivClass:
-      'bg-opacity-25 bg-black text-center absolute w-3/5 md:w-1/3 md:h-auto rounded md:rounded-r-none p-4 md:py-8 mt-4',
+      'bg-opacity-25 bg-black text-center absolute w-3/5 sm:w-1/3 md:h-auto rounded p-4',
   },
   {
     id: 2,
@@ -31,16 +31,16 @@ const imageData = [
       imgPos: 'bg-center',
     },
     title: {
-      text: 'Zen.',
+      text: 'Warm Breezes...',
       class: 'font-mono text-white text-xl md:text-4xl ',
     },
     tagline: {
-      text: "We'll help you find your spot.",
-      class: 'font-mono text-gray-400',
+      text: "There's a cold drink casting shade somewhere",
+      class: 'font-mono text-gray-400 leading-none',
     },
-    outerDivClass: 'justify-end items-end md:items-center',
+    outerDivClass: 'justify-end items-end md:items-center p-2 md:pr-16',
     innerDivClass:
-      'bg-opacity-25 bg-black text-center absolute w-1/2 md:w-1/3 md:h-auto rounded md:rounded-r-none p-4 md:py-8',
+      'bg-opacity-25 bg-black text-center absolute w-1/2 md:w-1/3 md:h-auto rounded p-2 md:py-8',
   },
   {
     id: 3,
@@ -49,16 +49,16 @@ const imageData = [
       imgPos: 'bg-right md:bg-center',
     },
     title: {
-      text: 'Zen.',
+      text: 'Zen',
       class: 'font-mono text-white text-xl md:text-4xl ',
     },
     tagline: {
-      text: "We'll help you find your spot.",
-      class: 'font-mono text-gray-400',
+      text: "We'll help you find your spot",
+      class: 'font-mono text-gray-400 leading-none',
     },
-    outerDivClass: 'justify-end items-end md:items-center',
+    outerDivClass: 'justify-end items-end md:items-start p-2 md:pt-32 md:pr-16',
     innerDivClass:
-      'bg-opacity-25 bg-black text-center absolute w-1/2 md:w-1/3 md:h-auto rounded md:rounded-r-none p-4 md:py-8',
+      'bg-opacity-25 bg-black text-center absolute w-1/2 md:w-1/3 md:h-auto rounded p-2 md:py-8',
   },
   {
     id: 4,
@@ -67,16 +67,17 @@ const imageData = [
       imgPos: 'bg-left md:bg-bottom',
     },
     title: {
-      text: 'I do.',
+      text: 'Say I do',
       class: 'font-mono text-white text-xl md:text-4xl ',
     },
     tagline: {
-      text: 'Memorable destination weddings are just a click away.',
-      class: 'font-mono text-gray-400',
+      text: 'Memorable destination weddings are just a click away',
+      class: 'font-mono text-gray-400 leading-none',
     },
-    outerDivClass: 'justify-center md:justify-start md:items-end',
+    outerDivClass:
+      'justify-center md:justify-start items-end p-2 md:pb-16 md:pl-12',
     innerDivClass:
-      'bg-opacity-25 bg-black text-center absolute w-3/5 md:w-3/5 md:h-auto rounded md:rounded-r-none p-4 md:py-8 md:ml-8 mt-4 md:mt-0',
+      'bg-opacity-25 bg-black text-center absolute w-4/5 md:w-2/5 md:h-auto rounded p-2 md:pb-4 md:ml-8 mt-4 md:mt-0',
   },
 ]
 
@@ -85,7 +86,7 @@ const fadeProperties = {
   transitionDuration: 500,
   infinite: true,
   indicators: false,
-  arrows: false,
+  arrows: true,
 }
 
 const ImageSlider = () => {
