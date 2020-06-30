@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from 'react'
 import FeelgoodSection from '../../Components/FeelgoodSection/FeelgoodSection'
 // import Updates from '../../Components/Updates/Updates'
-import VideoBlock from '../../Components/VideoBlock/VideoBlock'
+// import VideoBlock from '../../Components/VideoBlock/VideoBlock'
 // import TravelFavorites from '../../Components/TravelFavorites/TravelFavorites'
 // import EnhancedVacation from '../../Components/EnhancedVacation/EnhancedVacation'
 import GroupTrip from '../../Components/GroupTrip/GroupTrip'
@@ -18,7 +18,7 @@ export default class Home extends Component {
         {/* <EnhancedVacation /> */}
         <FeelgoodSection />
         {/* <Updates /> */}
-        <VideoBlock />
+        {/* <VideoBlock /> */}
         {/* <TravelFavorites /> */}
         <GroupTrip />
         {/* <FeaturedArticle /> */}
