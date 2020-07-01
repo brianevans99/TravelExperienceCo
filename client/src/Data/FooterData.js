@@ -1,26 +1,16 @@
 export default {
   footerLinks: [
     {
+      id: 1,
       name: 'About',
       link: 'about',
     },
+    { id: 2, name: 'Contact Us', link: 'contact-us' },
+    { id: 3, name: 'Travel Protection', link: 'travel-protection' },
+    { id: 4, name: 'Privacy Policy', link: 'privacy-policy' },
+    { id: 5, name: 'Terms of Use', link: 'terms-of-use' },
     {
-      name: 'Contact Us',
-      link: 'contact-us',
-    },
-    {
-      name: 'Travel Protection',
-      link: 'travel-protection',
-    },
-    {
-      name: 'Privacy Policy',
-      link: 'privacy-policy',
-    },
-    {
-      name: 'Terms of Use',
-      link: 'terms-of-use',
-    },
-    {
+      id: 6,
       name: 'Booking Terms & Conditions',
       link: 'booking-terms-and-conditions',
     },

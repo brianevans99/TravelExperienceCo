@@ -39,7 +39,7 @@ export default function Footer() {
                 Sign up for special travel deals and announcements!
               </div>
               <input
-                class='bg-white focus:outline-none focus:shadow-outline border border-gray-300 rounded-lg py-2 px-4 block w-full appearance-none leading-normal'
+                className='bg-white focus:outline-none focus:shadow-outline border border-gray-300 rounded-lg py-2 px-4 block w-full appearance-none leading-normal'
                 type='email'
                 placeholder='Your email address'
               />
