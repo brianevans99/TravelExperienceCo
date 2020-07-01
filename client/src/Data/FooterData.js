@@ -22,7 +22,7 @@ export default {
     },
     {
       name: 'Booking Terms & Conditions',
-      link: '/booking-terms-and-conditions',
+      link: 'booking-terms-and-conditions',
     },
   ],
   disclaimer:

@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import Button from '../Button/Button'
 import footerData from '../../Data/FooterData'
 import logo from '../../Assets/Images/logo.png'
 import Moment from 'react-moment'
@@ -42,9 +43,7 @@ export default function Footer() {
                 type='email'
                 placeholder='Your email address'
               />
-              <button className='bg-tecPink-500 text-white rounded-lg w-32 h-8 px-4 mt-2'>
-                Sign Up
-              </button>
+              <Button label='Sign Up' />
             </div>
           </div>
         </div>
