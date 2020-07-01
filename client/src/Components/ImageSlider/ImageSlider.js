@@ -86,7 +86,7 @@ const fadeProperties = {
   transitionDuration: 500,
   infinite: true,
   indicators: false,
-  arrows: true,
+  arrows: false,
 }
 
 const ImageSlider = () => {

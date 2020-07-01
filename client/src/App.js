@@ -4,12 +4,11 @@ import Toolbar from './Components/Toolbar/Toolbar'
 import SideDrawer from './Components/SideDrawer/SideDrawer'
 import Backdrop from './Components/Backdrop/Backdrop'
 import HomePage from './Pages/HomePage/HomePage'
-import VacationsPage from './Pages/Vactions/VacationsPage'
-import NotFound from './Pages/NotFound'
 import DestinationsPage from './Pages/Destinations/DestinationsPage'
-import CruisesPage from './Pages/Cruises/CruisesPage'
-import GuidedToursPage from './Pages/GuidedTours/GuidedToursPage'
-import GroupTravelPage from './Pages/GroupTravel/GroupTravelPage'
+import ServicesPage from './Pages/Services/ServicesPage'
+import VacationsPage from './Pages/Vactions/VacationsPage'
+import Footer from './Components/Footer/Footer'
+import NotFound from './Pages/NotFound'
 
 class App extends Component {
   state = {
@@ -37,13 +36,12 @@ class App extends Component {
         {backdrop}
         <Switch>
           <Route exact path='/' component={HomePage} />
-          <Route path='/vacations' component={VacationsPage} />
           <Route path='/destinations' component={DestinationsPage} />
-          <Route path='/cruises' component={CruisesPage} />
-          <Route path='/guidedtours' component={GuidedToursPage} />
-          <Route path='/grouptravel' component={GroupTravelPage} />
+          <Route path='/services' component={ServicesPage} />
+          <Route path='/vacations' component={VacationsPage} />
           <Route component={NotFound} />
         </Switch>
+        <Footer />
       </Router>
     )
   }
