@@ -27,7 +27,7 @@ module.exports = {
         },
         facebook: '#39569c',
         twitter: '#26a7de',
-        instagram: '#3f729b',
+        instagram: '#c32aa3',
         youtube: '#b2071d',
       },
     },
