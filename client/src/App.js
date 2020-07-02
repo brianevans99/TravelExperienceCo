@@ -7,6 +7,7 @@ import HomePage from './Pages/HomePage/HomePage'
 import DestinationsPage from './Pages/Destinations/DestinationsPage'
 import ServicesPage from './Pages/Services/ServicesPage'
 import VacationsPage from './Pages/Vactions/VacationsPage'
+import BookingTermsConditions from './Pages/Legal/BookingTermsConditions'
 import Footer from './Components/Footer/Footer'
 import NotFound from './Pages/NotFound'
 
@@ -39,6 +40,10 @@ class App extends Component {
           <Route path='/destinations' component={DestinationsPage} />
           <Route path='/services' component={ServicesPage} />
           <Route path='/vacations' component={VacationsPage} />
+          <Route
+            path='/booking-terms-and-conditions'
+            component={BookingTermsConditions}
+          />
           <Route component={NotFound} />
         </Switch>
         <Footer />
