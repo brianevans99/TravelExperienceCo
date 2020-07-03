@@ -7,8 +7,10 @@ import HomePage from './Pages/HomePage/HomePage'
 import DestinationsPage from './Pages/Destinations/DestinationsPage'
 import ServicesPage from './Pages/Services/ServicesPage'
 import VacationsPage from './Pages/Vactions/VacationsPage'
-import BookingTermsConditions from './Pages/Legal/BookingTermsConditions'
+import PrivacyPolicyPage from './Pages/Legal/PrivacyPolicyPage'
+import BookingTermsConditionsPage from './Pages/Legal/BookingTermsConditionsPage'
 import Footer from './Components/Footer/Footer'
+import ScrollToTop from './Components/ScrollToTop'
 import NotFound from './Pages/NotFound'
 
 class App extends Component {
@@ -24,6 +26,7 @@ class App extends Component {
   backdropClickHandler = () => {
     this.setState({ sideDrawerOpen: false })
   }
+
   render() {
     let backdrop
 
@@ -35,17 +38,20 @@ class App extends Component {
         <Toolbar drawerToggleClickHandler={this.drawerToggleClickHandler} />
         <SideDrawer show={this.state.sideDrawerOpen} />
         {backdrop}
-        <Switch>
-          <Route exact path='/' component={HomePage} />
-          <Route path='/destinations' component={DestinationsPage} />
-          <Route path='/services' component={ServicesPage} />
-          <Route path='/vacations' component={VacationsPage} />
-          <Route
-            path='/booking-terms-and-conditions'
-            component={BookingTermsConditions}
-          />
-          <Route component={NotFound} />
-        </Switch>
+        <ScrollToTop>
+          <Switch>
+            <Route exact path='/' component={HomePage} />
+            <Route path='/destinations' component={DestinationsPage} />
+            <Route path='/services' component={ServicesPage} />
+            <Route path='/vacations' component={VacationsPage} />
+            <Route path='/privacy-policy' component={PrivacyPolicyPage} />
+            <Route
+              path='/booking-terms-and-conditions'
+              component={BookingTermsConditionsPage}
+            />
+            <Route component={NotFound} />
+          </Switch>
+        </ScrollToTop>
         <Footer />
       </Router>
     )
