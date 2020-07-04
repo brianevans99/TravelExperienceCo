@@ -75,19 +75,23 @@ export default {
         },
         {
           id: 2,
-          pageLink: 'Family Travel',
+          name: 'Family Travel',
+          pageLink: 'family-travel',
         },
         {
           id: 3,
-          pageLink: 'Guided Tours',
+          name: 'Guided Tours',
+          pageLink: 'guided-tours',
         },
         {
           id: 4,
-          pageLink: 'Destination Weddings & Honeymoons',
+          name: 'Destination Weddings & Honeymoons',
+          pageLink: 'destination-weddings-and-honeymoons',
         },
         {
           id: 5,
-          pageLink: 'Corporate Incentive Travel',
+          name: 'Corporate Incentive Travel',
+          pageLink: 'corporate-incentive-travel',
         },
       ],
     },

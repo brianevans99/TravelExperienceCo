@@ -18,7 +18,7 @@ export default function Footer() {
     <div className='flex flex-col items-center justify-center bg-gray-900 px-16'>
       <div className='divide-y-4 divide-gray-500'>
         <div className='flex flex-col xl:flex-row py-4'>
-          <div className='flex justify-center lg:justify-start items-center lg:w-1/3'>
+          <div className='flex justify-center lg:justify-start items-center lg:w-1/4'>
             <img
               src={logo}
               className='h-8 md:h-12 m-2'

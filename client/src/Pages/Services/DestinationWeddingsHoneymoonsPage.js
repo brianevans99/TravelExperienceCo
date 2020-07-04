@@ -5,7 +5,7 @@ import PageData from '../../Data/PageData'
 export default class GroupTravelPage extends Component {
   state = {
     data: PageData.services,
-    pageName: 'Group Travel',
+    pageName: 'Destination Weddings & Honeymoons',
   }
   render() {
     const pagedata = this.state.data.find((data) => {
