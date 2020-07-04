@@ -11,7 +11,7 @@ export default {
     {
       id: 1,
       pageLink: 'Destinations',
-      sublinks: [
+      subLinks: [
         {
           id: 1,
           pageLink: 'Caribbean',
@@ -22,7 +22,7 @@ export default {
         },
         {
           id: 3,
-          pagelink: 'Asia',
+          pageLink: 'Asia',
         },
         {
           id: 4,
@@ -37,7 +37,7 @@ export default {
     {
       id: 2,
       pageLink: 'Vacations',
-      sublinks: [
+      subLinks: [
         {
           id: 1,
           pageLink: 'All-Inclusives',
@@ -48,7 +48,7 @@ export default {
         },
         {
           id: 3,
-          pagelink: 'Golf Packages',
+          pageLink: 'Golf Packages',
         },
         {
           id: 4,
@@ -66,11 +66,12 @@ export default {
     },
     {
       id: 3,
-      pageLink: 'Services',
-      sublinks: [
+      pageLink: 'services',
+      subLinks: [
         {
           id: 1,
-          pageLink: 'Group Travel',
+          name: 'Group Travel',
+          pageLink: 'group-travel',
         },
         {
           id: 2,
@@ -78,7 +79,7 @@ export default {
         },
         {
           id: 3,
-          pagelink: 'Guided Tours',
+          pageLink: 'Guided Tours',
         },
         {
           id: 4,
