@@ -2,24 +2,12 @@ import React from 'react'
 
 const DrawerToggleButton = (props) => (
   <button
-    className='toggleButton m-2'
+    className='flex flex-col w-8 h-6 justify-around bg-transparent cursor-pointer border-none box-border p-0 m-2'
     onClick={props.click}
-    style={{
-      display: 'flex',
-      flexDirection: 'column',
-      background: 'transparent',
-      border: 'none',
-      height: '24px',
-      width: '24px',
-      cursor: 'pointer',
-      padding: '0px',
-      boxSizing: 'border-box',
-      justifyContent: 'space-around',
-    }}
   >
-    <div style={{ width: '100%', height: '2px', background: '#fff' }} />
-    <div style={{ width: '100%', height: '2px', background: '#fff' }} />
-    <div style={{ width: '100%', height: '2px', background: '#fff' }} />
+    <div className='bg-gray-500 h-1 w-full' />
+    <div className='bg-gray-500 h-1 w-full' />
+    <div className='bg-gray-500 h-1 w-full' />
   </button>
 )
 
