@@ -4,11 +4,23 @@ import Toolbar from './Components/Toolbar/Toolbar'
 import SideDrawer from './Components/SideDrawer/SideDrawer'
 import Backdrop from './Components/Backdrop/Backdrop'
 import HomePage from './Pages/HomePage/HomePage'
+import Caribbean from './Pages/Destinations/Caribbean'
+import Europe from './Pages/Destinations/Europe'
+import Asia from './Pages/Destinations/Asia'
+import NorthAmerica from './Pages/Destinations/NorthAmerica'
+import Australia from './Pages/Destinations/Australia'
+import AllInclusives from './Pages/Vacations/AllInclusives'
+import FishingTrips from './Pages/Vacations/FishingTrips'
+import GolfPackages from './Pages/Vacations/GolfPackages'
+import BedAndBreakfast from './Pages/Vacations/BedAndBreakfast'
+import Cruises from './Pages/Vacations/Cruises'
+import SkiPackages from './Pages/Vacations/SkiPackages'
 import GroupTravelPage from './Pages/Services/GroupTravelPage'
 import FamilyTravelPage from './Pages/Services/FamilyTravelPage'
 import GuidedToursPage from './Pages/Services/GuidedToursPage'
 import DestinationWeddingsHoneymoonsPage from './Pages/Services/DestinationWeddingsHoneymoonsPage'
 import CorporateIncentiveTravelPage from './Pages/Services/CorporateIncentiveTravelPage'
+import Formspree from './Components/Formspree/Formspree'
 import PrivacyPolicyPage from './Pages/Legal/PrivacyPolicyPage'
 import BookingTermsConditionsPage from './Pages/Legal/BookingTermsConditionsPage'
 import TermsOfUse from './Pages/Legal/TermsOfUse'
@@ -39,11 +51,31 @@ class App extends Component {
     return (
       <Router>
         <Toolbar drawerToggleClickHandler={this.drawerToggleClickHandler} />
-        <SideDrawer show={this.state.sideDrawerOpen} />
+        <SideDrawer
+          click={this.backdropClickHandler}
+          show={this.state.sideDrawerOpen}
+        />
         {backdrop}
         <ScrollToTop>
           <Switch>
             <Route exact path='/' component={HomePage} />
+            <Route path='/destinations/caribbean' component={Caribbean} />
+            <Route path='/destinations/asia' component={Asia} />
+            <Route path='/destinations/europe' component={Europe} />
+            <Route
+              path='/destinations/north-america'
+              component={NorthAmerica}
+            />
+            <Route path='/destinations/australia' component={Australia} />
+            <Route path='/vacations/all-inclusives' component={AllInclusives} />
+            <Route path='/vacations/fishing-trips' component={FishingTrips} />
+            <Route path='/vacations/golf-packages' component={GolfPackages} />
+            <Route
+              path='/vacations/bed-and-breakfast'
+              component={BedAndBreakfast}
+            />
+            <Route path='/vacations/cruises' component={Cruises} />
+            <Route path='/vacations/ski-packages' component={SkiPackages} />
             <Route path='/services/group-travel' component={GroupTravelPage} />
             <Route
               path='/services/family-travel'
@@ -58,6 +90,8 @@ class App extends Component {
               path='/services/corporate-incentive-travel'
               component={CorporateIncentiveTravelPage}
             />
+            <Route path='/contact' component={Formspree} />
+
             <Route path='/privacy-policy' component={PrivacyPolicyPage} />
             <Route path='/terms-of-use' component={TermsOfUse} />
             <Route

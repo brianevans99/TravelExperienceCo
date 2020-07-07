@@ -14,23 +14,28 @@ export default {
       subLinks: [
         {
           id: 1,
-          pageLink: 'Caribbean',
+          name: 'Caribbean',
+          pageLink: 'caribbean',
         },
         {
           id: 2,
-          pageLink: 'Europe',
+          name: 'Europe',
+          pageLink: 'europe',
         },
         {
           id: 3,
-          pageLink: 'Asia',
+          name: 'Asia',
+          pageLink: 'asia',
         },
         {
           id: 4,
-          pageLink: 'North America',
+          name: 'North America',
+          pageLink: 'north-america',
         },
         {
           id: 5,
-          pageLink: 'Australia',
+          name: 'Australia',
+          pageLink: 'australia',
         },
       ],
     },
@@ -40,27 +45,33 @@ export default {
       subLinks: [
         {
           id: 1,
-          pageLink: 'All-Inclusives',
+          name: 'All-Inclusives',
+          pageLink: 'all-inclusives',
         },
         {
           id: 2,
-          pageLink: 'Fishing Packages',
+          name: 'Fishing Trips',
+          pageLink: 'fishing-trips',
         },
         {
           id: 3,
-          pageLink: 'Golf Packages',
+          name: 'Golf Packages',
+          pageLink: 'golf-packages',
         },
         {
           id: 4,
-          pageLink: 'Bed & Breakfast',
+          name: 'Bed & Breakfast',
+          pageLink: 'bed-and-breakfast',
         },
         {
           id: 5,
-          pageLink: 'Cruises',
+          name: 'Cruises',
+          pageLink: 'cruises',
         },
         {
           id: 6,
-          pageLink: 'Ski Packages',
+          name: 'Ski Packages',
+          pageLink: 'ski-packages',
         },
       ],
     },

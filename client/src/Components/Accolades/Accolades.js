@@ -3,11 +3,11 @@ import bbbLogo from '../../Assets/Images/bbb_aplus.png'
 
 export default function Accolades() {
   return (
-    <div className='flex flex-col sm:flex-row-reverse bg-gray-400 p-4'>
-      <div className='self-center w-1/3 lg:w-1/4 sm:pl-4 md:px-8'>
+    <div className='flex flex-col items-center sm:flex-row-reverse bg-gray-400 p-4'>
+      <div className='self-center w-1/3 md:w-1/4 lg:w-1/5 sm:pl-4 md:px-8'>
         <img src={bbbLogo} alt='Better Business Bureau A+ rating' />
       </div>
-      <div className='w-full sm:w-2/3 lg:w-3/4'>
+      <div className='w-full md:px-16'>
         <div className='text-xl text-center font-semibold md:text-left'>
           Better Business Bureau A+ Rating for 5 Years!
         </div>

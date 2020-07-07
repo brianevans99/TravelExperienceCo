@@ -3,14 +3,14 @@ import groupTravel from '../../Assets/Images/Carousel/groupTravel.jpg'
 
 export default function GroupTrip() {
   return (
-    <div className='bg-gray-400 flex flex-col lg:flex-row-reverse'>
-      <div className=''>
+    <div className='bg-gray-400 flex flex-col items-center lg:flex-row-reverse'>
+      <div className='flex-1'>
         <img
           src={groupTravel}
           alt='Plan your group travel with Travel Experience Co.'
         />
       </div>
-      <div className='p-2 lg:px-4'>
+      <div className='flex-1 p-2 md:px-16'>
         <div className='text-2xl text-center md:text-left my-3'>
           Plan your group travel with Travel Experience Co.!
         </div>

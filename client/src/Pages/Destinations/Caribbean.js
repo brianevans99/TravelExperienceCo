@@ -2,10 +2,10 @@ import React, { Component } from 'react'
 import TopHero from '../../Components/TopHero/TopHero'
 import PageData from '../../Data/PageData'
 
-export default class GroupTravelPage extends Component {
+export default class Caribbean extends Component {
   state = {
-    data: PageData.services,
-    pageName: 'Destination Weddings & Honeymoons',
+    data: PageData.destinations,
+    pageName: 'Caribbean',
   }
   render() {
     const pagedata = this.state.data.find((data) => {

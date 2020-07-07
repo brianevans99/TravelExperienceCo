@@ -19,6 +19,8 @@ export default class GroupTravelPage extends Component {
           text={pagedata.heroText}
           heroImg={pagedata.heroImg}
           heroAlt={pagedata.heroAlt}
+          label='Start Here'
+          page='/contact'
         />
       </div>
     )

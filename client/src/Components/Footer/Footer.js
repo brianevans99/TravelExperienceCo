@@ -15,7 +15,7 @@ export default function Footer() {
     </span>
   ))
   return (
-    <div className='flex flex-col items-center justify-center bg-gray-900 px-16'>
+    <div className='flex flex-col items-center justify-center bg-gray-900 px-2 md:px-16'>
       <div className='divide-y-4 divide-gray-500'>
         <div className='flex flex-col xl:flex-row py-4'>
           <div className='flex justify-center lg:justify-start items-center lg:w-1/4'>
