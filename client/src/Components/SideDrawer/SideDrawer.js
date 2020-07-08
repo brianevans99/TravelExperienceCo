@@ -22,9 +22,12 @@ const SideDrawer = (props) => {
           <li
             onClick={props.click}
             key={links.id}
-            className='hover:bg-tecPink-500 px-4 py-2'
+            className='hover:bg-tecPink-500 ml-4 my-2'
           >
-            <Link className='' to={`/${item.pageLink}/${links.pageLink}`}>
+            <Link
+              className='h-full w-full'
+              to={`/${item.pageLink}/${links.pageLink}`}
+            >
               {links.name}
             </Link>
           </li>
