@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import { FaCaretDown } from 'react-icons/fa'
-import styled from 'styled-components'
 import ToolbarData from '../../Data/ToolbarData'
 
 const SideDrawer = (props) => {

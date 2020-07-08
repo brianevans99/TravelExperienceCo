@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import FormInput from './FormInput'
 import Button from '../Button/Button'
-import Spinner from '../Spinner/Spinner'
 
 export default class Formspree extends Component {
   constructor(props) {
@@ -9,7 +8,7 @@ export default class Formspree extends Component {
     this.submitForm = this.submitForm.bind(this)
     this.state = {
       status: '',
-      showForm: false,
+      showForm: true,
     }
   }
 
@@ -45,9 +44,6 @@ export default class Formspree extends Component {
             <div className='text-3xl text-center uppercase'>Thank You!</div>
             <div className='text-xl text-center'>
               Someone will be in touch shortly.
-            </div>
-            <div>
-              <Spinner />
             </div>
           </div>
           <form
@@ -154,7 +150,7 @@ export default class Formspree extends Component {
       if (xhr.readyState !== XMLHttpRequest.DONE) return
       if (xhr.status === 200) {
         form.reset()
-        this.setState({ status: 'SUCCESS' })
+        this.setState({ status: 'SUCCESS', showForm: false })
       } else {
         this.setState({ status: 'ERROR' })
       }
