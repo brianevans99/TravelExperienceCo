@@ -36,11 +36,12 @@ function Toolbar(props) {
     </li>
   ))
   return (
-    <header className='bg-gray-900 bg-opacity-75  w-full fixed top-0 left-0 z-10'>
+    <header className='bg-gray-900 bg-opacity-75 w-full fixed top-0 left-0 z-10'>
       <nav className='flex justify-between items-center h-16'>
         <div className='md:hidden'>
           <DrawerToggleButton click={props.drawerToggleClickHandler} />
         </div>
+
         <div className='flex items-center'>
           <Link to='/'>
             <img

@@ -17,8 +17,13 @@ export default class AllInclusives extends Component {
         <TopHero
           name={pagedata.name}
           text={pagedata.heroText}
+          background={pagedata.background}
+          heroTextPos={pagedata.heroTextPos}
+          heroTextSize={pagedata.heroTextSize}
           heroImg={pagedata.heroImg}
           heroAlt={pagedata.heroAlt}
+          heroImgPos={pagedata.heroImgPos}
+          heroImgGrad={pagedata.heroImgGrad}
           label='Start Here'
           page='/contact'
         />

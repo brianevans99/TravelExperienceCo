@@ -15,6 +15,7 @@ export default class Home extends Component {
     return (
       <Fragment>
         <ImageSlider />
+
         {/* <EnhancedVacation /> */}
         <FeelgoodSection />
         {/* <Updates /> */}

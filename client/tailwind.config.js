@@ -1,3 +1,5 @@
+const plugin = require('tailwindcss/plugin')
+
 module.exports = {
   purge: [],
   theme: {
@@ -30,17 +32,43 @@ module.exports = {
         instagram: '#c32aa3',
         youtube: '#b2071d',
       },
-      container: {
-        center: true,
-        padding: {
-          default: '1rem',
-          sm: '2rem',
-          lg: '4rem',
-          xl: '5rem',
-        },
+    },
+    container: {
+      center: true,
+      padding: {
+        default: '1rem',
+        sm: '2rem',
+        lg: '4rem',
+        xl: '5rem',
       },
     },
   },
   variants: {},
-  plugins: [],
+  plugins: [
+    plugin(function ({ addUtilities }) {
+      const newUtilities = {
+        '.dark-right': {
+          backgroundImage:
+            'linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.9))',
+        },
+        '.dark-left': {
+          backgroundImage:
+            'linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,0.9))',
+        },
+        '.dark-top': {
+          backgroundImage:
+            'linear-gradient(to top, rgba(0,0,0,0), rgba(0,0,0,0.9))',
+        },
+        '.dark-bottom': {
+          backgroundImage:
+            'linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.9))',
+        },
+        '.dark-none': {
+          backgroundImage: '',
+        },
+      }
+
+      addUtilities(newUtilities, ['responsive'])
+    }),
+  ],
 }
