@@ -6,11 +6,7 @@ axios({
   url: 'http://jsonplaceholder.typicode.com/users',
 })
   .then((response) => {
-    console.log(response)
-    fs.writeFileSync(
-      './client/src/Data/Caribbean/data.json',
-      JSON.stringify(response.data)
-    )
+    fs.writeFileSync('./data.json', JSON.stringify(response.data))
   })
   .catch((error) => {
     console.log(error)
