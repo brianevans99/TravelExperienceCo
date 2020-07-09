@@ -3,7 +3,7 @@ import FeelgoodSection from '../../Components/FeelgoodSection/FeelgoodSection'
 // import Updates from '../../Components/Updates/Updates'
 import VideoBlock from '../../Components/VideoBlock/VideoBlock'
 // import TravelFavorites from '../../Components/TravelFavorites/TravelFavorites'
-// import EnhancedVacation from '../../Components/EnhancedVacation/EnhancedVacation'
+import EnhancedVacation from '../../Components/EnhancedVacation/EnhancedVacation'
 import GroupTrip from '../../Components/GroupTrip/GroupTrip'
 // import FeaturedArticle from '../../Components/FeaturedArticle/FeaturedArticle'
 import Experience from '../../Components/Experience/Experience'
@@ -16,7 +16,7 @@ export default class Home extends Component {
       <Fragment>
         <ImageSlider />
 
-        {/* <EnhancedVacation /> */}
+        <EnhancedVacation />
         <FeelgoodSection />
         {/* <Updates /> */}
         <VideoBlock />

@@ -1,13 +1,13 @@
-import React from 'react'
-import data from '../../Assets/data.json'
+import React, { Component } from 'react'
 
-export default function EnhancedVacation() {
-  const personData = data.map((person) => (
-    <li key={person.id}>{person.username}</li>
-  ))
-  return (
-    <div className='bg-black text-white w-full'>
-      <ul>{personData}</ul>
-    </div>
-  )
+class EnhancedVacation extends Component {
+  componentDidMount() {
+    fetch('./data.json')
+      .then((response) => response.json())
+      .then((data) => console.log(data))
+  }
+  render() {
+    return <div className='bg-black text-white w-full'></div>
+  }
 }
+export default EnhancedVacation
