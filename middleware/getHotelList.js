@@ -1,8 +1,9 @@
 const axios = require('axios')
+const fs = require('fs-extra')
 
 axios({
   method: 'GET',
-  url: 'https://tripadvisor1.p.rapidapi.com/hotels/get-details',
+  url: 'https://tripadvisor1.p.rapidapi.com/hotels/list-by-latlng',
   headers: {
     'content-type': 'application/json',
     'x-rapidapi-host': 'tripadvisor1.p.rapidapi.com',
@@ -10,17 +11,19 @@ axios({
     useQueryString: true,
   },
   params: {
-    adults: '1',
-    nights: '2',
-    currency: 'USD',
     lang: 'en_US',
-    child_rm_ages: '7%2C10',
-    checkin: '2020-08-15',
-    location_id: '148994',
+    hotel_class: '4,5',
+    limit: '30',
+    currency: 'USD',
+    latitude: '40.780394',
+    longitude: ' -73.965779',
   },
 })
   .then((response) => {
-    console.log(response.data.data[0].photo.images.small.url)
+    fs.writeFileSync(
+      '../routes/api/NorthAmerica/NorthAmericaData.json',
+      JSON.stringify(response.data.data)
+    )
   })
   .catch((error) => {
     console.log(error)

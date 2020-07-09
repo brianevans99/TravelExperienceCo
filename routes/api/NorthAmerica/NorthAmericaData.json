@@ -1,0 +1,3834 @@
+[
+  {
+    "location_id": "7891458",
+    "name": "Arlo SoHo",
+    "latitude": "40.72438",
+    "longitude": "-74.00798",
+    "num_reviews": "2014",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/45/35/98/guest-room.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/45/35/98/guest-room.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "7216",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/45/35/98/guest-room.jpg",
+          "height": "5412"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/45/35/98/guest-room.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/45/35/98/guest-room.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-04-19T04:01:57-0400",
+      "caption": "Guest room",
+      "id": "457520536",
+      "helpful_votes": "0",
+      "published_date": "2020-04-19T04:01:57-0400",
+      "user": null
+    },
+    "awards": [
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2019",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2019"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2017",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2017"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.541594982147217",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "1",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#1 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "4.4611120156535495",
+    "distance_string": null,
+    "bearing": "southwest",
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$",
+    "price": "$94 - $433",
+    "neighborhood_info": [
+      { "location_id": "15565677", "name": "Downtown Manhattan (Downtown)" },
+      { "location_id": "7212970", "name": "Hudson Square" },
+      { "location_id": "7102353", "name": "SoHo" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=7891458&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkQNHg-UZ1R6UupVYd5cOdKiDhCKk2HPix04ozNp2GzK18iYEAL7H6SqkeHk0YIfe7w&bapid=2&cs=16ae33beeddfe2057c60d9f16d4c58e0b",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": {
+      "desktop": [
+        {
+          "headline": "Stay More, Save More",
+          "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.7891458-a_offer.8033354-a_trafficSource.ba",
+          "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=7891458&from=api&area=OID:8033354%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=SOID&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkQNHg-UZ1R6UupVYd5cOdKjMqgVqQWxNO7g8Z5Dz1fvny7JvXm3PTU5EX0apn4rpbA&cs=10a3442ae0706218c1dbe5e05cf22ae1a"
+        }
+      ],
+      "mobile": []
+    },
+    "listing_key": "034f734a-cfc3-463c-8ec3-f5a8dffb415c"
+  },
+  {
+    "location_id": "1128769",
+    "name": "SIXTY LES",
+    "latitude": "40.722168",
+    "longitude": "-73.98861",
+    "num_reviews": "1391",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/19/51/71/19/outdoor-pool.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/19/51/71/19/outdoor-pool.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "4000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/19/51/71/19/outdoor-pool.jpg",
+          "height": "2669"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/19/51/71/19/outdoor-pool.jpg",
+          "height": "367"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/19/51/71/19/outdoor-pool.jpg",
+          "height": "167"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-09-19T14:51:15-0400",
+      "caption": "Outdoor Pool",
+      "id": "424767769",
+      "helpful_votes": "1",
+      "published_date": "2019-09-19T14:51:15-0400",
+      "user": { "user_id": null, "member_id": "0", "type": "user" }
+    },
+    "awards": [
+      {
+        "award_type": "GreenLeader",
+        "year": "2020",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_small-0-5.png",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_large_bronze-0-5.jpg"
+        },
+        "categories": ["Bronze level"],
+        "display_name": "GreenLeader Bronze"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2017",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2017"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2016",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2016"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2015",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2015_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2015"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2014",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2014_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2014"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2013",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2013_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2013"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2012",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2012_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2012"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2011",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2011_en_US-0-5.png"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2011"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.8695528507232666",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "2",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#2 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "4.201483279538763",
+    "distance_string": null,
+    "bearing": "south",
+    "rating": "4.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$200 - $461",
+    "neighborhood_info": [
+      { "location_id": "15565677", "name": "Downtown Manhattan (Downtown)" },
+      { "location_id": "20933769", "name": "Manhattan" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=1128769&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkVb3pJO5tP2WIAIdaQw3GDJ-AyfNs2AgywfLsnQbEMwwpcb9U9Ef__3uVXZ2cFI1Aw&bapid=2&cs=1661f8785de433892e56d46f9830b7dea",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": { "desktop": [], "mobile": [] },
+    "listing_key": "0a816928-0774-4aee-b405-2289d71120a3"
+  },
+  {
+    "location_id": "10541730",
+    "name": "Arlo NoMad",
+    "latitude": "40.746136",
+    "longitude": "-73.98497",
+    "num_reviews": "1572",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/45/32/af/lounge.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/45/32/af/lounge.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "7216",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/45/32/af/lounge.jpg",
+          "height": "5412"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/45/32/af/lounge.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/45/32/af/lounge.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-04-19T03:49:51-0400",
+      "caption": "Bar/Lounge",
+      "id": "457519791",
+      "helpful_votes": "0",
+      "published_date": "2020-04-19T03:49:51-0400",
+      "user": null
+    },
+    "awards": [
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2019",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2019"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.558215618133545",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "3",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#3 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "2.5741655386227063",
+    "distance_string": null,
+    "bearing": "southwest",
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$",
+    "price": "$110 - $416",
+    "neighborhood_info": [
+      { "location_id": "7102352", "name": "Midtown" },
+      { "location_id": "7212972", "name": "NoMad" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=10541730&from=api&area=&slot=3&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkWq80W_EHELOTlio8-krP8P7ORjzkwp9sTa4-96Y_ComH_Kq9hUDldyC2yc1xIAAtQ&bapid=3&cs=1d84e4b1f98852f48e08f7b6018ca5bce",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": {
+      "desktop": [
+        {
+          "headline": "Stay More, Save More",
+          "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.10541730-a_offer.7993907-a_trafficSource.ba",
+          "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=10541730&from=api&area=OID:7993907%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=SOID&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkWq80W_EHELOTlio8-krP8Oof0OPXEENBDc5zV8xRpmU4dsbxuVovYd9Ij6NY8zw8Q&cs=17545340eb0a66a053895952c0b51c373"
+        }
+      ],
+      "mobile": []
+    },
+    "listing_key": "7cdf6f65-8089-44ed-847b-10972c591b37"
+  },
+  {
+    "location_id": "99766",
+    "name": "The Roosevelt Hotel",
+    "latitude": "40.754948",
+    "longitude": "-73.97738",
+    "num_reviews": "12086",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/fd/b8/6f/lobby.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/fd/b8/6f/lobby.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "800",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/17/fd/b8/6f/lobby.jpg",
+          "height": "548"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/fd/b8/6f/lobby.jpg",
+          "height": "377"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/fd/b8/6f/lobby.jpg",
+          "height": "171"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-06-19T23:57:08-0400",
+      "caption": "Lobby",
+      "id": "402503791",
+      "helpful_votes": "14",
+      "published_date": "2019-06-19T23:57:08-0400",
+      "user": null
+    },
+    "awards": [],
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.109797954559326",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "4",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#4 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "1.8621239896055195",
+    "distance_string": null,
+    "bearing": "south",
+    "rating": "3.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$",
+    "price": "$121 - $384",
+    "neighborhood_info": [
+      { "location_id": "7102352", "name": "Midtown" },
+      { "location_id": "20933769", "name": "Manhattan" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=99766&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkSPWRnbF3eH-GpzdHdLW5IC119Xb8A6WR8X0tnZ8dzgSsCiWB556Iqze5zfBjFKldA&bapid=2&cs=10f09babc2288dbbb0fffed972d68294e",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": {
+      "desktop": [
+        {
+          "headline": "Buy a Room Night Certificate for Just $99",
+          "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.99766-a_offer.8271479-a_trafficSource.ba",
+          "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=99766&from=api&area=OID:8271479%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=SOID&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkSPWRnbF3eH-GpzdHdLW5IDY8uTbkmMCir6C48iQDstUUJFB8Gi1zh0IyrCCnqZdmA&cs=13febecfa70dcd1e82d8adad205973dee"
+        }
+      ],
+      "mobile": []
+    },
+    "listing_key": "6ff74b45-8c7c-4351-97a4-1e081395f2d3"
+  },
+  {
+    "location_id": "14149780",
+    "name": "Aliz Hotel Times Square",
+    "latitude": "40.75624",
+    "longitude": "-73.9917",
+    "num_reviews": "620",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/15/0e/3d/01/aliz-hotel-times-square.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/0e/3d/01/aliz-hotel-times-square.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2400",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/15/0e/3d/01/aliz-hotel-times-square.jpg",
+          "height": "1687"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/0e/3d/01/aliz-hotel-times-square.jpg",
+          "height": "387"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/15/0e/3d/01/aliz-hotel-times-square.jpg",
+          "height": "176"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2018-10-15T13:59:09-0400",
+      "caption": "",
+      "id": "353254657",
+      "helpful_votes": "0",
+      "published_date": "2018-10-15T13:59:09-0400",
+      "user": { "user_id": null, "member_id": "0", "type": "user" }
+    },
+    "awards": [],
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.908398151397705",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "5",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#5 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "boutique_hotel",
+    "subcategory_type_label": "Boutique Hotel",
+    "distance": "2.1528795012611357",
+    "distance_string": null,
+    "bearing": "southwest",
+    "rating": "4.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$",
+    "price": "$96 - $371",
+    "neighborhood_info": [
+      { "location_id": "15565645", "name": "Hudson Yards" },
+      { "location_id": "7212957", "name": "Garment District" },
+      { "location_id": "15565670", "name": "Times Square" },
+      { "location_id": "15565657", "name": "Midtown West" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=14149780&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkbZ5RggKOCV7EywlqL1jAEv70TMf7EaxGdFaIs_K70JteZ4eKk7V15PQwY4-0ms5lQ&bapid=1&cs=1334310898d3e5f58df48b796061cf824",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": {
+      "desktop": [
+        {
+          "headline": "25% Off Summer Stays!",
+          "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.14149780-a_offer.8266046-a_trafficSource.ba",
+          "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=14149780&from=api&area=OID:8266046%7COT:4&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=SOID&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkbZ5RggKOCV7EywlqL1jAEsTzaoSnOQZ9hBeFzKqYEyeGDJqnhxn3BfN3cXxne26SA&cs=13bc3c69c08fffedab7846c8936257350"
+        }
+      ],
+      "mobile": []
+    },
+    "listing_key": "6e9a630c-dc89-4ff6-b306-4901803190c6"
+  },
+  {
+    "location_id": "10066892",
+    "name": "Hotel 50 Bowery NYC",
+    "latitude": "40.71595",
+    "longitude": "-73.99659",
+    "num_reviews": "1638",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/ea/62/f1/50-bowery.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/ea/62/f1/50-bowery.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/ea/62/f1/50-bowery.jpg",
+          "height": "1458"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/ea/62/f1/50-bowery.jpg",
+          "height": "401"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0d/ea/62/f1/50-bowery.jpg",
+          "height": "182"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2016-12-19T10:51:13-0500",
+      "caption": "Hotel 50 Bowery NYC ",
+      "id": "233464561",
+      "helpful_votes": "8",
+      "published_date": "2016-12-19T10:51:13-0500",
+      "user": { "user_id": null, "member_id": "0", "type": "user" }
+    },
+    "awards": [
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2019",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2019"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.561435222625732",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "6",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#6 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "4.741042052920656",
+    "distance_string": null,
+    "bearing": "south",
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$",
+    "price": "$115 - $382",
+    "neighborhood_info": [
+      { "location_id": "7102344", "name": "Chinatown" },
+      { "location_id": "15565677", "name": "Downtown Manhattan (Downtown)" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=10066892&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkfxY_kcK8GNdZ_ujxMflstyEuzs5sVwF1-d52-tNgisK_HtMt5nompcplAxKQESIQA&bapid=2&cs=1d66781136f0f748a044c707c239a51e1",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": {
+      "desktop": [
+        {
+          "headline": "Save up to 20% + Free Breakfast ",
+          "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.10066892-a_offer.8303614-a_trafficSource.ba",
+          "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=10066892&from=api&area=OID:8303614%7COT:2&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=SOID&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkfxY_kcK8GNdZ_ujxMflstz1f_JPDQDP2Vono9UJWbq0WlX0WOcAniUilTnFc1vYCg&cs=1e7d97a27c4ba7dc630b2d9f923962434"
+        }
+      ],
+      "mobile": []
+    },
+    "listing_key": "7630cc4d-fd03-45f9-9e09-b3bdc6d49cd3"
+  },
+  {
+    "location_id": "122005",
+    "name": "The New Yorker a Wyndham Hotel",
+    "latitude": "40.751984",
+    "longitude": "-73.993835",
+    "num_reviews": "14957",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/6d/13/49/exterior.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/6d/13/49/exterior.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1499",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/6d/13/49/exterior.jpg",
+          "height": "956"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/6d/13/49/exterior.jpg",
+          "height": "351"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/6d/13/49/exterior.jpg",
+          "height": "159"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2018-06-22T23:21:00-0400",
+      "caption": "Exterior",
+      "id": "325915465",
+      "helpful_votes": "77",
+      "published_date": "2018-06-22T23:21:00-0400",
+      "user": null
+    },
+    "awards": [
+      {
+        "award_type": "GreenLeader",
+        "year": "2020",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_small-0-5.png",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_large_silver-0-5.jpg"
+        },
+        "categories": ["Silver level"],
+        "display_name": "GreenLeader Silver"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2013",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2013_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2013"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2012",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2012_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2012"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2011",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2011_en_US-0-5.png"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2011"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.8013336658477783",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "7",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#7 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "2.4540062599697334",
+    "distance_string": null,
+    "bearing": "southwest",
+    "rating": "4.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$",
+    "price": "$156 - $376",
+    "neighborhood_info": [
+      { "location_id": "15565645", "name": "Hudson Yards" },
+      { "location_id": "20933769", "name": "Manhattan" },
+      { "location_id": "7102343", "name": "Chelsea" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": { "desktop_contacts": [], "mobile_contacts": [] },
+    "special_offers": { "desktop": [], "mobile": [] },
+    "listing_key": "283038c9-1660-4930-b440-22cdd5aae972"
+  },
+  {
+    "location_id": "10728525",
+    "name": "The Williamsburg Hotel",
+    "latitude": "40.72151",
+    "longitude": "-73.95846",
+    "num_reviews": "778",
+    "timezone": "America/New_York",
+    "location_string": "Brooklyn, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/19/f4/7b/be/exterior.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/19/f4/7b/be/exterior.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2016",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/19/f4/7b/be/exterior.jpg",
+          "height": "1392"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/19/f4/7b/be/exterior.jpg",
+          "height": "380"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/19/f4/7b/be/exterior.jpg",
+          "height": "173"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-11-07T00:26:10-0500",
+      "caption": "Exterior",
+      "id": "435452862",
+      "helpful_votes": "0",
+      "published_date": "2019-11-07T00:26:10-0500",
+      "user": null
+    },
+    "awards": [
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2019",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2019"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.600453853607178",
+    "ranking_geo": "Brooklyn",
+    "ranking_geo_id": "60827",
+    "ranking_position": "1",
+    "ranking_denominator": "497",
+    "ranking_category": "hotel",
+    "ranking": "#1 Best Value of 497 places to stay in Brooklyn",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "4.091044265704083",
+    "distance_string": null,
+    "bearing": "south",
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$239 - $605",
+    "neighborhood_info": [
+      { "location_id": "20361241", "name": "Williamsburg" }
+    ],
+    "hotel_class": "5.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=10728525&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkaJth3MSavbpsdyKI5OEsWlmpKceEa_bjjc9QyU88XV5wXYZ1NN0mBMLNgSkTfvKyQ&bapid=1&cs=11e9bbeef87e9a3f519a4cd3c14e9f15c",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": { "desktop": [], "mobile": [] },
+    "listing_key": "4b6f9443-f2ab-416f-a46d-76771377976f"
+  },
+  {
+    "location_id": "93454",
+    "name": "Crowne Plaza Times Square Manhattan",
+    "latitude": "40.76065",
+    "longitude": "-73.98473",
+    "num_reviews": "11953",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/49/80/74/exterior.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/49/80/74/exterior.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "5760",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/49/80/74/exterior.jpg",
+          "height": "3840"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/49/80/74/exterior.jpg",
+          "height": "367"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/49/80/74/exterior.jpg",
+          "height": "167"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-04-26T01:00:42-0400",
+      "caption": "Exterior",
+      "id": "457801844",
+      "helpful_votes": "0",
+      "published_date": "2020-04-26T01:00:42-0400",
+      "user": null
+    },
+    "awards": [
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2017",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2017"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2016",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2016"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2015",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2015_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2015"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2014",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2014_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2014"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2013",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2013_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2013"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2012",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2012_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2012"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2011",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2011_en_US-0-5.png"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2011"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.095467567443848",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "8",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#8 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "1.688456216842393",
+    "distance_string": null,
+    "bearing": "southwest",
+    "rating": "4.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$212 - $504",
+    "neighborhood_info": [
+      { "location_id": "15565669", "name": "Theater District" },
+      { "location_id": "15565670", "name": "Times Square" },
+      { "location_id": "7102352", "name": "Midtown" },
+      { "location_id": "15565657", "name": "Midtown West" },
+      { "location_id": "7102354", "name": "Times Square / Theater District" },
+      { "location_id": "20933769", "name": "Manhattan" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": { "desktop_contacts": [], "mobile_contacts": [] },
+    "special_offers": { "desktop": [], "mobile": [] },
+    "listing_key": "df1de47f-176d-44ce-93a8-c7b809ac9dc9"
+  },
+  {
+    "location_id": "15135187",
+    "name": "Park Terrace Hotel on Bryant Park",
+    "latitude": "40.752636",
+    "longitude": "-73.98299",
+    "num_reviews": "1059",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/14/ba/5d/c9/getlstd-property-photo.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/14/ba/5d/c9/getlstd-property-photo.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "3600",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/14/ba/5d/c9/getlstd-property-photo.jpg",
+          "height": "2400"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/14/ba/5d/c9/getlstd-property-photo.jpg",
+          "height": "367"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/14/ba/5d/c9/getlstd-property-photo.jpg",
+          "height": "167"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2018-09-20T10:32:04-0400",
+      "caption": "getlstd_property_photo",
+      "id": "347758025",
+      "helpful_votes": "42",
+      "published_date": "2018-09-20T10:32:04-0400",
+      "user": { "user_id": null, "member_id": "0", "type": "user" }
+    },
+    "awards": [],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.677809238433838",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "9",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#9 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "2.121147074837248",
+    "distance_string": null,
+    "bearing": "southwest",
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$209 - $565",
+    "neighborhood_info": [
+      { "location_id": "15565668", "name": "Tenderloin" },
+      { "location_id": "7212957", "name": "Garment District" },
+      { "location_id": "7102352", "name": "Midtown" },
+      { "location_id": "15565657", "name": "Midtown West" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=15135187&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIke-Ek0IKNcSJ0OoLnnXtbAC_o8MwfOBlpbMVAP9EAZ2j5T3mPuRnw5I_6VHQHx7bcQ&bapid=1&cs=19324e709142314577d3debc9f605ca66",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": { "desktop": [], "mobile": [] },
+    "listing_key": "2dcdfd11-ffc7-473f-97e0-c7c6fcae3cfb"
+  },
+  {
+    "location_id": "7792565",
+    "name": "Boro Hotel",
+    "latitude": "40.754745",
+    "longitude": "-73.935745",
+    "num_reviews": "996",
+    "timezone": "America/New_York",
+    "location_string": "Long Island City, Queens, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/2f/66/44/boro-hotel.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/2f/66/44/boro-hotel.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/2f/66/44/boro-hotel.jpg",
+          "height": "1333"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/2f/66/44/boro-hotel.jpg",
+          "height": "367"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/2f/66/44/boro-hotel.jpg",
+          "height": "167"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2015-06-26T11:25:42-0400",
+      "caption": "Welcome Desk",
+      "id": "137324100",
+      "helpful_votes": "3",
+      "published_date": "2015-06-26T11:25:42-0400",
+      "user": { "user_id": null, "member_id": "0", "type": "user" }
+    },
+    "awards": [
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2019",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2019"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2017",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2017"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2016",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2016"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.353662014007568",
+    "ranking_geo": "Long Island City",
+    "ranking_geo_id": "48080",
+    "ranking_position": "1",
+    "ranking_denominator": "75",
+    "ranking_category": "hotel",
+    "ranking": "#1 Best Value of 75 places to stay in Long Island City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "2.3714797480208123",
+    "distance_string": null,
+    "bearing": "southeast",
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$",
+    "price": "$142 - $292",
+    "hotel_class": "4.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=7792565&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkSLNbEj9735J77JCI25lhlSVGgdYtBEiy9xqug5iwbLNzqCxMIa_Sz4Yls7orkjDNg&bapid=2&cs=11beb04db4b5613e46a3b645a56a4509d",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": { "desktop": [], "mobile": [] },
+    "listing_key": "b79ce432-6d5b-4f45-8608-c092d1f86f8e"
+  },
+  {
+    "location_id": "8738248",
+    "name": "The William Vale",
+    "latitude": "40.722206",
+    "longitude": "-73.956825",
+    "num_reviews": "1200",
+    "timezone": "America/New_York",
+    "location_string": "Brooklyn, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/0b/95/4b/the-william-vale.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/0b/95/4b/the-william-vale.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/0b/95/4b/the-william-vale.jpg",
+          "height": "1384"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/0b/95/4b/the-william-vale.jpg",
+          "height": "381"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/0b/95/4b/the-william-vale.jpg",
+          "height": "173"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2017-04-21T15:27:34-0400",
+      "caption": "",
+      "id": "252417355",
+      "helpful_votes": "4",
+      "published_date": "2017-04-21T15:27:34-0400",
+      "user": { "user_id": null, "member_id": "0", "type": "user" }
+    },
+    "awards": [
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2019",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2019"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2017",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2017"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.530561923980713",
+    "ranking_geo": "Brooklyn",
+    "ranking_geo_id": "60827",
+    "ranking_position": "2",
+    "ranking_denominator": "497",
+    "ranking_category": "hotel",
+    "ranking": "#2 Best Value of 497 places to stay in Brooklyn",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "4.05225102726562",
+    "distance_string": null,
+    "bearing": "south",
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$309 - $592",
+    "neighborhood_info": [
+      { "location_id": "20361241", "name": "Williamsburg" }
+    ],
+    "hotel_class": "5.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=8738248&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIka_PGlwul_SNSO4_GmVAQK2kBhSBU2rT7vb0mVvcN-InC4glbhf11VrBU8e0FVuzBQ&bapid=1&cs=179b78d9a254bbf467737b2f85361f5d9",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": { "desktop": [], "mobile": [] },
+    "listing_key": "f3850092-fc10-435b-b28a-bfd1f67d4e5d"
+  },
+  {
+    "location_id": "1158753",
+    "name": "Ink 48 Hotel",
+    "latitude": "40.764553",
+    "longitude": "-73.99581",
+    "num_reviews": "3643",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/48/c5/e0/ink-48-hotel.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/48/c5/e0/ink-48-hotel.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1366",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/48/c5/e0/ink-48-hotel.jpg",
+          "height": "768"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/48/c5/e0/ink-48-hotel.jpg",
+          "height": "309"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/48/c5/e0/ink-48-hotel.jpg",
+          "height": "141"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-04-24T15:35:27-0400",
+      "caption": "",
+      "id": "457754080",
+      "helpful_votes": "0",
+      "published_date": "2020-04-24T15:35:27-0400",
+      "user": { "user_id": null, "member_id": "0", "type": "user" }
+    },
+    "awards": [
+      {
+        "award_type": "GreenLeader",
+        "year": "2020",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_small-0-5.png",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_large_gold-0-5.jpg"
+        },
+        "categories": ["Gold level"],
+        "display_name": "GreenLeader Gold"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2019",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2019"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2017",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2017"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2016",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2016"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2015",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2015_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2015"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2014",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2014_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2014"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2013",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2013_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2013"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2012",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2012_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2012"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2011",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2011_en_US-0-5.png"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2011"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.170207977294922",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "10",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#10 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "boutique_hotel",
+    "subcategory_type_label": "Boutique Hotel",
+    "distance": "1.9170995301000537",
+    "distance_string": null,
+    "bearing": "southwest",
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$185 - $557",
+    "neighborhood_info": [
+      { "location_id": "15565657", "name": "Midtown West" },
+      { "location_id": "7102350", "name": "Hell's Kitchen" },
+      { "location_id": "20933769", "name": "Manhattan" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": { "desktop_contacts": [], "mobile_contacts": [] },
+    "special_offers": { "desktop": [], "mobile": [] },
+    "listing_key": "30a36c85-7dcc-4b47-b0a4-3c041845092d"
+  },
+  {
+    "location_id": "93562",
+    "name": "Stewart Hotel",
+    "latitude": "40.74892",
+    "longitude": "-73.99182",
+    "num_reviews": "7792",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/18/e8/ad/0b/suite.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/18/e8/ad/0b/suite.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "5760",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/18/e8/ad/0b/suite.jpg",
+          "height": "3240"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/18/e8/ad/0b/suite.jpg",
+          "height": "309"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/18/e8/ad/0b/suite.jpg",
+          "height": "141"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-08-23T01:30:40-0400",
+      "caption": "Suite",
+      "id": "417901835",
+      "helpful_votes": "3",
+      "published_date": "2019-08-23T01:30:40-0400",
+      "user": null
+    },
+    "awards": [
+      {
+        "award_type": "GreenLeader",
+        "year": "2020",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_small-0-5.png",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_large_silver-0-5.jpg"
+        },
+        "categories": ["Silver level"],
+        "display_name": "GreenLeader Silver"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2019",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2019"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2017",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2017"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2013",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2013_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2013"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2012",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2012_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2012"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2011",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2011_en_US-0-5.png"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2011"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.134145736694336",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "11",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#11 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "2.569224875755662",
+    "distance_string": null,
+    "bearing": "southwest",
+    "rating": "4.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$",
+    "price": "$159 - $401",
+    "neighborhood_info": [
+      { "location_id": "15565668", "name": "Tenderloin" },
+      { "location_id": "7102343", "name": "Chelsea" },
+      { "location_id": "7102352", "name": "Midtown" },
+      { "location_id": "20933769", "name": "Manhattan" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=93562&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkZSH_EzZwy5FUVRF-nLnudNmeJ935QsbxD0E5Ng_f0cYrZPVoFMIFkIMXd1zKajZTQ&bapid=2&cs=1d40bea0fff85ec72a948de24f8f03af6",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": {
+      "desktop": [
+        {
+          "headline": "CLICK HERE TO SAVE!",
+          "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.93562-a_offer.6656862-a_trafficSource.ba",
+          "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=93562&from=api&area=OID:6656862%7COT:2&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=SOID&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkZSH_EzZwy5FUVRF-nLnudOzuqnGypJzjX4zM9sZ1VJYF4efZAwujx4ZIbFHtERaJA&cs=1ece8d9e81e41be87054b992f53f1affe"
+        }
+      ],
+      "mobile": []
+    },
+    "listing_key": "5a2d89d1-c9cb-49c0-83f6-83c0631dd5f3"
+  },
+  {
+    "location_id": "17783246",
+    "name": "Moxy NYC East Village",
+    "latitude": "40.731506",
+    "longitude": "-73.989555",
+    "num_reviews": "212",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/7d/29/55/exterior.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/7d/29/55/exterior.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "4000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/7d/29/55/exterior.jpg",
+          "height": "2667"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/7d/29/55/exterior.jpg",
+          "height": "367"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/7d/29/55/exterior.jpg",
+          "height": "167"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-07-02T23:26:02-0400",
+      "caption": "Exterior",
+      "id": "461187413",
+      "helpful_votes": "0",
+      "published_date": "2020-07-02T23:26:02-0400",
+      "user": null
+    },
+    "awards": [],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.5544867515563965",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "12",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#12 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "3.603795503419581",
+    "distance_string": null,
+    "bearing": "south",
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$",
+    "price": "$130 - $386",
+    "neighborhood_info": [
+      { "location_id": "15565677", "name": "Downtown Manhattan (Downtown)" },
+      { "location_id": "7102345", "name": "East Village" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183960256&geo=17783246&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38059&bucket=934872&nrank=1&crank=1&clt=CLD&ttype=ContactLinkDesktop&tm=174231226&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZZlf5iV8UZkLqL9WN2h2zE_GlfkgFKLpiH1Nxbx8wsHI&dated=true&bapid=1&cs=1ca23519906295b3261b579da7d0a4b4e",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": { "desktop": [], "mobile": [] },
+    "listing_key": "def7539c-9d29-4bae-8e16-1687e4c88b7b"
+  },
+  {
+    "location_id": "93579",
+    "name": "Park Lane Hotel",
+    "latitude": "40.764877",
+    "longitude": "-73.97534",
+    "num_reviews": "9421",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/18/4a/f4/11/hotel.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/18/4a/f4/11/hotel.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1500",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/18/4a/f4/11/hotel.jpg",
+          "height": "1000"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/18/4a/f4/11/hotel.jpg",
+          "height": "367"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/18/4a/f4/11/hotel.jpg",
+          "height": "167"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-07-12T22:14:38-0400",
+      "caption": "Hotel",
+      "id": "407565329",
+      "helpful_votes": "3",
+      "published_date": "2019-07-12T22:14:38-0400",
+      "user": null
+    },
+    "awards": [
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2019",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2019"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2016",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2016"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2012",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2012_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2012"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2011",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2011_en_US-0-5.png"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2011"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.066023826599121",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "13",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#13 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "1.184461023314909",
+    "distance_string": null,
+    "bearing": "southwest",
+    "rating": "4.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$194 - $481",
+    "neighborhood_info": [
+      { "location_id": "7102352", "name": "Midtown" },
+      { "location_id": "15565657", "name": "Midtown West" },
+      { "location_id": "20933769", "name": "Manhattan" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=93579&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkRNzPcNmqsSymSn4t57HVWJNqYfIBOB_8emp6g5xJIO3nBKdZtE4j6RSaX7sVD37MA&bapid=2&cs=1f81675616d5d9b9a9f2f0dd32fb19c1a",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": {
+      "desktop": [
+        {
+          "headline": "Up to 30% Off + 3 FREE Rewards",
+          "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.93579-a_offer.2642665-a_trafficSource.ba",
+          "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=93579&from=api&area=OID:2642665%7COT:2&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=SOID&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkRNzPcNmqsSymSn4t57HVWLzEr72_7j1ubyQLyxLVGz1ywguOwUL-v4rMVo12t3_Vw&cs=1dfc510dfd69b83631cdb2bc520395ae8"
+        }
+      ],
+      "mobile": []
+    },
+    "listing_key": "01f73426-8c82-4e37-8d5b-470c4dd289fc"
+  },
+  {
+    "location_id": "5550873",
+    "name": "Archer Hotel New York",
+    "latitude": "40.752045",
+    "longitude": "-73.98479",
+    "num_reviews": "4201",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/45/31/5d/lobby.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/45/31/5d/lobby.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "5616",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/45/31/5d/lobby.jpg",
+          "height": "3744"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/45/31/5d/lobby.jpg",
+          "height": "367"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/45/31/5d/lobby.jpg",
+          "height": "167"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-04-19T03:44:54-0400",
+      "caption": "Lobby",
+      "id": "457519453",
+      "helpful_votes": "1",
+      "published_date": "2020-04-19T03:44:54-0400",
+      "user": null
+    },
+    "awards": [
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2019",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2019"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2017",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2017"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2016",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2016"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2015",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2015_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2015"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.690537452697754",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "14",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#14 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "2.1993043475296945",
+    "distance_string": null,
+    "bearing": "southwest",
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$147 - $436",
+    "neighborhood_info": [
+      { "location_id": "15565668", "name": "Tenderloin" },
+      { "location_id": "7212957", "name": "Garment District" },
+      { "location_id": "7102352", "name": "Midtown" },
+      { "location_id": "15565657", "name": "Midtown West" }
+    ],
+    "hotel_class": "4.5",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=5550873&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkbBl4j9qGDkNMmnznPl_ZoiVuZTTxQ0VlZ9oncACZd4UclXBx3ApvtzvDDkobCN4qw&bapid=2&cs=1d08d13f6642b5e70b715d9787394203a",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": { "desktop": [], "mobile": [] },
+    "listing_key": "67f237c7-2ece-4a5c-a0ce-35464af79b92"
+  },
+  {
+    "location_id": "93398",
+    "name": "SIXTY SoHo",
+    "latitude": "40.724",
+    "longitude": "-74.003296",
+    "num_reviews": "1398",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/6f/6f/d0/lobby.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/6f/6f/d0/lobby.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1499",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/16/6f/6f/d0/lobby.jpg",
+          "height": "1007"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/6f/6f/d0/lobby.jpg",
+          "height": "369"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/16/6f/6f/d0/lobby.jpg",
+          "height": "168"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-02-11T20:16:20-0500",
+      "caption": "Lobby",
+      "id": "376401872",
+      "helpful_votes": "0",
+      "published_date": "2019-02-11T20:16:20-0500",
+      "user": null
+    },
+    "awards": [
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2019",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2019"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2017",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2017"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2016",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2016"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2013",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2013_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2013"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2012",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2012_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2012"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.413737773895264",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "15",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#15 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "4.368233133555069",
+    "distance_string": null,
+    "bearing": "southwest",
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$263 - $642",
+    "neighborhood_info": [
+      { "location_id": "15565677", "name": "Downtown Manhattan (Downtown)" },
+      { "location_id": "7102353", "name": "SoHo" },
+      { "location_id": "20933769", "name": "Manhattan" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=93398&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkRhulgHeaFipwxWzryH-ak7zQK7PlmC4cPmvyzKo8csI3xNVNaTBU6zrZ7NRARPyHg&bapid=2&cs=189e05cf043aef8b271ca685bac75cfab",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": { "desktop": [], "mobile": [] },
+    "listing_key": "a851de50-b9e6-43e9-847b-4d624a3e41f7"
+  },
+  {
+    "location_id": "6385164",
+    "name": "citizenM New York Times Square",
+    "latitude": "40.761684",
+    "longitude": "-73.98501",
+    "num_reviews": "4782",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/6e/9f/39/lobby.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/6e/9f/39/lobby.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "3300",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/6e/9f/39/lobby.jpg",
+          "height": "4200"
+        },
+        "large": {
+          "width": "354",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/6e/9f/39/lobby.jpg",
+          "height": "450"
+        },
+        "medium": {
+          "width": "161",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/6e/9f/39/lobby.jpg",
+          "height": "205"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-06-20T00:49:45-0400",
+      "caption": "Lobby",
+      "id": "460234553",
+      "helpful_votes": "0",
+      "published_date": "2020-06-20T00:49:45-0400",
+      "user": null
+    },
+    "awards": [
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2019",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2019"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2017",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2017"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2016",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2016"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2015",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2015_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2015"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.631446838378906",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "16",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#16 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "1.6399492597439236",
+    "distance_string": null,
+    "bearing": "southwest",
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$163 - $452",
+    "neighborhood_info": [
+      { "location_id": "15565669", "name": "Theater District" },
+      { "location_id": "15565670", "name": "Times Square" },
+      { "location_id": "7102352", "name": "Midtown" },
+      { "location_id": "15565657", "name": "Midtown West" },
+      { "location_id": "7102354", "name": "Times Square / Theater District" },
+      { "location_id": "20933769", "name": "Manhattan" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=6385164&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkd_PgcYC5k-duWMn4HzaMvwE2CZa43VpA3EEyBvVXf_-QUYpRf_-XZRPCz3wKStTYA&bapid=2&cs=19448f2209503a972b8788e6d445b47c1",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": { "desktop": [], "mobile": [] },
+    "listing_key": "0bb3b002-9296-4dfa-a087-b2e255517c91"
+  },
+  {
+    "location_id": "1235582",
+    "name": "W Hoboken",
+    "latitude": "40.739304",
+    "longitude": "-74.02752",
+    "num_reviews": "1356",
+    "timezone": "America/New_York",
+    "location_string": "Hoboken, New Jersey",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/4e/18/50/exterior.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/4e/18/50/exterior.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "4000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/4e/18/50/exterior.jpg",
+          "height": "2667"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/4e/18/50/exterior.jpg",
+          "height": "367"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/4e/18/50/exterior.jpg",
+          "height": "167"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-05-05T00:16:00-0400",
+      "caption": "Exterior",
+      "id": "458102864",
+      "helpful_votes": "0",
+      "published_date": "2020-05-05T00:16:00-0400",
+      "user": null
+    },
+    "awards": [
+      {
+        "award_type": "GreenLeader",
+        "year": "2020",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_small-0-5.png",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_large_bronze-0-5.jpg"
+        },
+        "categories": ["Bronze level"],
+        "display_name": "GreenLeader Bronze"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2019",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2019"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2017",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2017"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2016",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2016"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2015",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2015_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2015"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2014",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2014_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2014"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2013",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2013_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2013"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2012",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2012_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2012"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2011",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2011_en_US-0-5.png"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2011"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.312155723571777",
+    "ranking_geo": "Hoboken",
+    "ranking_geo_id": "46515",
+    "ranking_position": "1",
+    "ranking_denominator": "33",
+    "ranking_category": "hotel",
+    "ranking": "#1 Best Value of 33 places to stay in Hoboken",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "4.305993060869845",
+    "distance_string": null,
+    "bearing": "southwest",
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$175 - $536",
+    "hotel_class": "4.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183958589&geo=1235582&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38059&bucket=934872&nrank=1&crank=1&clt=CLD&ttype=ContactLinkDesktop&tm=174231226&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZYq-9rp8Qfkt9I2tXMXgeeHaVX-OfH2hCotVX0RMPqhE&dated=true&bapid=1&cs=16e7c55b51eff2adc8dd018ce0d7de138",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": {
+      "desktop": [
+        {
+          "headline": "Unlock Member Rates!",
+          "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.1235582-a_offer.8300833-a_trafficSource.ba",
+          "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183958589&geo=1235582&from=api&area=OID:8300833%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=38059&bucket=934872&ubucket=934872&nrank=1&crank=1&clt=SOID&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkWWhOquj8WIRio0mQ95Tkp-pGkOcj337WJE7-Ipep2vzBY8KEXEsFx8GSnU2JXAoWA&cs=1df68eb88749827ed2d7ded8904c2263a"
+        }
+      ],
+      "mobile": []
+    },
+    "listing_key": "e6ec8ebc-9264-49c8-8a8e-825b2e4da668"
+  },
+  {
+    "location_id": "502408",
+    "name": "Fifty Hotel & Suites by Affinia",
+    "latitude": "40.75611",
+    "longitude": "-73.97108",
+    "num_reviews": "2294",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/09/7e/33/living-room.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/09/7e/33/living-room.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1500",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/09/7e/33/living-room.jpg",
+          "height": "1001"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/09/7e/33/living-room.jpg",
+          "height": "367"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/09/7e/33/living-room.jpg",
+          "height": "167"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-02-28T23:17:27-0500",
+      "caption": "Living Room",
+      "id": "453606963",
+      "helpful_votes": "0",
+      "published_date": "2020-02-28T23:17:27-0500",
+      "user": null
+    },
+    "awards": [
+      {
+        "award_type": "GreenLeader",
+        "year": "2020",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_small-0-5.png",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_large_silver-0-5.jpg"
+        },
+        "categories": ["Silver level"],
+        "display_name": "GreenLeader Silver"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2019",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2019"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2017",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2017"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2016",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2016"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2013",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2013_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2013"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2012",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2012_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2012"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2011",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2011_en_US-0-5.png"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2011"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.1553850173950195",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "17",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#17 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "1.7025046798352466",
+    "distance_string": null,
+    "bearing": "south",
+    "rating": "4.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$",
+    "price": "$168 - $425",
+    "neighborhood_info": [
+      { "location_id": "15565656", "name": "Midtown East" },
+      { "location_id": "15565672", "name": "Turtle Bay" },
+      { "location_id": "20933769", "name": "Manhattan" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": { "desktop_contacts": [], "mobile_contacts": [] },
+    "special_offers": {
+      "desktop": [
+        {
+          "headline": "Easy Cancellations",
+          "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.502408-a_offer.8270258-a_trafficSource.ba",
+          "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=502408&from=api&area=OID:8270258%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=SOID&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkW4qEfjzGAzFbXFP6ZqANoyH2PQ036D3FTzxlOJ6iyHMO3MHhdcoHgVrto8YlNsBaw&cs=1609a09e8751efd9cfac294c194c48adc"
+        }
+      ],
+      "mobile": []
+    },
+    "listing_key": "41147cf8-283a-42cf-bd1d-e3bec80c02fb"
+  },
+  {
+    "location_id": "1026626",
+    "name": "Ravel Hotel Trademark Collection",
+    "latitude": "40.75397",
+    "longitude": "-73.94946",
+    "num_reviews": "1045",
+    "timezone": "America/New_York",
+    "location_string": "Long Island City, Queens, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/15/06/0d/6f/guest-room.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/06/0d/6f/guest-room.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/06/0d/6f/guest-room.jpg",
+          "height": "953"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/15/06/0d/6f/guest-room.jpg",
+          "height": "762"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/15/06/0d/6f/guest-room.jpg",
+          "height": "186"
+        }
+      },
+      "is_blessed": false,
+      "uploaded_date": "2018-10-13T01:06:44-0400",
+      "caption": "Guest room",
+      "id": "352718191",
+      "helpful_votes": "0",
+      "published_date": "2018-10-13T01:06:44-0400",
+      "user": null
+    },
+    "awards": [],
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.696129322052002",
+    "ranking_geo": "Long Island City",
+    "ranking_geo_id": "48080",
+    "ranking_position": "2",
+    "ranking_denominator": "75",
+    "ranking_category": "hotel",
+    "ranking": "#2 Best Value of 75 places to stay in Long Island City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "2.0178441895757655",
+    "distance_string": null,
+    "bearing": "southeast",
+    "rating": "3.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$",
+    "price": "$109 - $289",
+    "hotel_class": "4.0",
+    "business_listings": { "desktop_contacts": [], "mobile_contacts": [] },
+    "special_offers": { "desktop": [], "mobile": [] },
+    "listing_key": "86628c88-ec16-4810-ad46-c2ea064be7bd"
+  },
+  {
+    "location_id": "223023",
+    "name": "Hudson New York",
+    "latitude": "40.76826",
+    "longitude": "-73.98498",
+    "num_reviews": "8515",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/07/de/35/hudson-hotel-new-york.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/07/de/35/hudson-hotel-new-york.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/07/de/35/hudson-hotel-new-york.jpg",
+          "height": "542"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/07/de/35/hudson-hotel-new-york.jpg",
+          "height": "291"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/07/07/de/35/hudson-hotel-new-york.jpg",
+          "height": "132"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2014-12-10T17:25:30-0500",
+      "caption": "Lobby",
+      "id": "117956149",
+      "helpful_votes": "21",
+      "published_date": "2014-12-10T17:25:30-0500",
+      "user": { "user_id": null, "member_id": "0", "type": "user" }
+    },
+    "awards": [],
+    "preferred_map_engine": "default",
+    "raw_ranking": "2.77313232421875",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "18",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#18 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "1.3097851672356706",
+    "distance_string": null,
+    "bearing": "southwest",
+    "rating": "3.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$",
+    "price": "$123 - $324",
+    "neighborhood_info": [
+      { "location_id": "15565657", "name": "Midtown West" },
+      { "location_id": "7102350", "name": "Hell's Kitchen" },
+      { "location_id": "20933769", "name": "Manhattan" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=223023&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkfz9zOIp44qvHJPH7jy1oCj7Aijm2aNlmp67D3RB8j_mV4gSBNmDkcQEXMTC1ATGFQ&bapid=1&cs=1a542540cba0c79daab97828d110ed2ac",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": { "desktop": [], "mobile": [] },
+    "listing_key": "204f4336-e285-4484-8a10-98599aab7f15"
+  },
+  {
+    "location_id": "224226",
+    "name": "City Club Hotel",
+    "latitude": "40.755848",
+    "longitude": "-73.98236",
+    "num_reviews": "1002",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/01/fa/09/exterior-and-entrance.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/01/fa/09/exterior-and-entrance.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "3000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/16/01/fa/09/exterior-and-entrance.jpg",
+          "height": "2740"
+        },
+        "large": {
+          "width": "493",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/01/fa/09/exterior-and-entrance.jpg",
+          "height": "450"
+        },
+        "medium": {
+          "width": "224",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/16/01/fa/09/exterior-and-entrance.jpg",
+          "height": "205"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-01-07T12:02:21-0500",
+      "caption": "Exterior and entrance at night.",
+      "id": "369228297",
+      "helpful_votes": "1",
+      "published_date": "2019-01-07T12:02:21-0500",
+      "user": { "user_id": null, "member_id": "0", "type": "user" }
+    },
+    "awards": [
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2017",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2017"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2016",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2016"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2013",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2013_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2013"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2012",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2012_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2012"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2011",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2011_en_US-0-5.png"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2011"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.066506385803223",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "19",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#19 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "1.9071911088183953",
+    "distance_string": null,
+    "bearing": "southwest",
+    "rating": "4.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$106 - $509",
+    "neighborhood_info": [
+      { "location_id": "7102352", "name": "Midtown" },
+      { "location_id": "15565657", "name": "Midtown West" },
+      { "location_id": "20933769", "name": "Manhattan" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": { "desktop_contacts": [], "mobile_contacts": [] },
+    "special_offers": { "desktop": [], "mobile": [] },
+    "listing_key": "13f7080c-e08e-44b8-91c2-f2ae6ba248dd"
+  },
+  {
+    "location_id": "2151848",
+    "name": "McCarren Hotel & Pool",
+    "latitude": "40.720905",
+    "longitude": "-73.955574",
+    "num_reviews": "1281",
+    "timezone": "America/New_York",
+    "location_string": "Brooklyn, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/15/5d/e2/15/lobby.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/5d/e2/15/lobby.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1800",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/15/5d/e2/15/lobby.jpg",
+          "height": "1285"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/5d/e2/15/lobby.jpg",
+          "height": "393"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/15/5d/e2/15/lobby.jpg",
+          "height": "178"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2018-11-13T15:54:44-0500",
+      "caption": "Lobby",
+      "id": "358474261",
+      "helpful_votes": "5",
+      "published_date": "2018-11-13T15:54:44-0500",
+      "user": { "user_id": null, "member_id": "0", "type": "user" }
+    },
+    "awards": [
+      {
+        "award_type": "GreenLeader",
+        "year": "2020",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_small-0-5.png",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_large_silver-0-5.jpg"
+        },
+        "categories": ["Silver level"],
+        "display_name": "GreenLeader Silver"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2017",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2017"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2016",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2016"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2015",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2015_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2015"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.060806751251221",
+    "ranking_geo": "Brooklyn",
+    "ranking_geo_id": "60827",
+    "ranking_position": "3",
+    "ranking_denominator": "497",
+    "ranking_category": "hotel",
+    "ranking": "#3 Best Value of 497 places to stay in Brooklyn",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "4.149578063019278",
+    "distance_string": null,
+    "bearing": "south",
+    "rating": "4.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$181 - $373",
+    "neighborhood_info": [
+      { "location_id": "20361241", "name": "Williamsburg" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": { "desktop_contacts": [], "mobile_contacts": [] },
+    "special_offers": { "desktop": [], "mobile": [] },
+    "listing_key": "7bd11fa9-08b8-445a-88f8-b0a474a0e87a"
+  },
+  {
+    "location_id": "93623",
+    "name": "Trump International Hotel and Tower New York",
+    "latitude": "40.769096",
+    "longitude": "-73.98155",
+    "num_reviews": "1773",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/76/06/b9/guest-room.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/76/06/b9/guest-room.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "749",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/76/06/b9/guest-room.jpg",
+          "height": "1058"
+        },
+        "large": {
+          "width": "319",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/76/06/b9/guest-room.jpg",
+          "height": "450"
+        },
+        "medium": {
+          "width": "145",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/76/06/b9/guest-room.jpg",
+          "height": "205"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-06-27T00:36:09-0400",
+      "caption": "Guest room",
+      "id": "460719801",
+      "helpful_votes": "0",
+      "published_date": "2020-06-27T00:36:09-0400",
+      "user": null
+    },
+    "awards": [
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2019",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2019"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2017",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2017"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2016",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2016"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2015",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2015_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2015"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2014",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2014_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2014"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2013",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2013_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2013"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2012",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2012_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2012"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2011",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2011_en_US-0-5.png"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2011"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.450700759887695",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "20",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#20 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "1.1371934630768976",
+    "distance_string": null,
+    "bearing": "southwest",
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$464 - $811",
+    "neighborhood_info": [
+      { "location_id": "15565651", "name": "Lincoln Square" },
+      { "location_id": "20933769", "name": "Manhattan" }
+    ],
+    "hotel_class": "5.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=93623&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkRy1Z27ARKuw_RYncbSdvq24rpW4QCHQ2m7yfVxkCk3T-FaDmiQCA3KT6xp2_3z6Yg&bapid=2&cs=185f0db3e92518f11c277b8dac23cd5c6",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": {
+      "desktop": [
+        {
+          "headline": "Complimentary Third Night",
+          "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.93623-a_offer.8111110-a_trafficSource.ba",
+          "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=93623&from=api&area=OID:8111110%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=SOID&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkRy1Z27ARKuw_RYncbSdvq3F-LsX03CzjwJbSMayZ2Gkz_6jLO-7gqhulZYA8qq0Cg&cs=13771daede03c8b3c059958e785d3ba8f"
+        }
+      ],
+      "mobile": []
+    },
+    "listing_key": "864edd0a-1a84-4d15-9f19-239e97049040"
+  },
+  {
+    "location_id": "10846086",
+    "name": "Four Points by Sheraton Manhattan Midtown West",
+    "latitude": "40.75518",
+    "longitude": "-73.998436",
+    "num_reviews": "245",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/4d/9c/a6/restaurant.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/4d/9c/a6/restaurant.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "4000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/4d/9c/a6/restaurant.jpg",
+          "height": "2667"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/4d/9c/a6/restaurant.jpg",
+          "height": "367"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/4d/9c/a6/restaurant.jpg",
+          "height": "167"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-05-04T00:25:01-0400",
+      "caption": "Restaurant",
+      "id": "458071206",
+      "helpful_votes": "0",
+      "published_date": "2020-05-04T00:25:01-0400",
+      "user": null
+    },
+    "awards": [
+      {
+        "award_type": "GreenLeader",
+        "year": "2020",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_small-0-5.png",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_large_silver-0-5.jpg"
+        },
+        "categories": ["Silver level"],
+        "display_name": "GreenLeader Silver"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2019",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2019"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.136676788330078",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "21",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#21 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "2.443009644928988",
+    "distance_string": null,
+    "bearing": "southwest",
+    "rating": "4.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$93 - $444",
+    "neighborhood_info": [
+      { "location_id": "15565657", "name": "Midtown West" },
+      { "location_id": "15565645", "name": "Hudson Yards" },
+      { "location_id": "7102350", "name": "Hell's Kitchen" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183959713&geo=10846086&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38059&bucket=934872&nrank=1&crank=1&clt=CLD&ttype=ContactLinkDesktop&tm=174231226&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZ0gTw6lzbDoVWkkbuVRXt0-0nJbXo8Cv3qt0Mk3TqBuI&dated=true&bapid=1&cs=1db3e1d316b1534b334779a4b89840d2a",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": {
+      "desktop": [
+        {
+          "headline": "Unlock Member Rates!",
+          "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.10846086-a_offer.8303469-a_trafficSource.ba",
+          "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183959713&geo=10846086&from=api&area=OID:8303469%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=38059&bucket=934872&ubucket=934872&nrank=1&crank=1&clt=SOID&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkdaZC80YaLWNyVnYWsKjIS2SQ_5WYRi7QxQxAzOF8NH30j4_vzcbMvu20XUgekz8KA&cs=1c06bb801d779f94b04f6d9ad1fcbb9a3"
+        }
+      ],
+      "mobile": []
+    },
+    "listing_key": "f51e9f7d-f4ab-4435-bd50-9983f5bcf26c"
+  },
+  {
+    "location_id": "99321",
+    "name": "The Manhattan Club",
+    "latitude": "40.764816",
+    "longitude": "-73.98079",
+    "num_reviews": "1889",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/53/9b/ce/exterior.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/53/9b/ce/exterior.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1282",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/53/9b/ce/exterior.jpg",
+          "height": "971"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/53/9b/ce/exterior.jpg",
+          "height": "417"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/53/9b/ce/exterior.jpg",
+          "height": "189"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2020-05-16T00:38:19-0400",
+      "caption": "Exterior",
+      "id": "458464206",
+      "helpful_votes": "0",
+      "published_date": "2020-05-16T00:38:19-0400",
+      "user": null
+    },
+    "awards": [
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2019",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2019"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2017",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2017"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2016",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2016"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2013",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2013_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2013"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2012",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2012_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2012"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.118415355682373",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "22",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#22 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "1.3338824942351204",
+    "distance_string": null,
+    "bearing": "southwest",
+    "rating": "4.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$",
+    "price": "$134 - $397",
+    "neighborhood_info": [
+      { "location_id": "7102352", "name": "Midtown" },
+      { "location_id": "15565657", "name": "Midtown West" },
+      { "location_id": "20933769", "name": "Manhattan" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=99321&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkfoAY8TgSL3r0bgjREqgq2eKviRWu1-oQZdmBqu306bMaKl91ueHYD0oCGiEB9gfgg&bapid=2&cs=120f2000b30d086a1d88291e5490a4277",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": { "desktop": [], "mobile": [] },
+    "listing_key": "786958e0-c08c-4737-b2bb-ef21e1f2f5a0"
+  },
+  {
+    "location_id": "80112",
+    "name": "San Carlos Hotel",
+    "latitude": "40.756004",
+    "longitude": "-73.97168",
+    "num_reviews": "1905",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/a6/7f/e2/elite-double-king-one-bedroom-sui.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/a6/7f/e2/elite-double-king-one-bedroom-sui.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2600",
+          "url": "https://media-cdn.tripadvisor.com/media/oyster/2600/09/a6/7f/e2/elite-double-king-one-bedroom-sui.jpg",
+          "height": "1733"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/a6/7f/e2/elite-double-king-one-bedroom-sui.jpg",
+          "height": "450"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/09/a6/7f/e2/elite-double-king-one-bedroom-sui.jpg",
+          "height": "205"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2015-10-16T17:18:33-0400",
+      "caption": "The Elite One Bedroom Suite Two Queen Beds at the San Carlos Hotel",
+      "id": "161906658",
+      "helpful_votes": "3",
+      "published_date": "2015-12-02T09:42:11-0500",
+      "user": null
+    },
+    "awards": [
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2019",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2019"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2017",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2017"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2016",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2016"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2015",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2015_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2015"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2014",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2014_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2014"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2013",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2013_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2013"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2012",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2012_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2012"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2011",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2011_en_US-0-5.png"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2011"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.573041915893555",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "23",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#23 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "1.715199903245444",
+    "distance_string": null,
+    "bearing": "south",
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$175 - $475",
+    "neighborhood_info": [
+      { "location_id": "15565656", "name": "Midtown East" },
+      { "location_id": "15565672", "name": "Turtle Bay" },
+      { "location_id": "20933769", "name": "Manhattan" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": {
+      "desktop_contacts": [
+        {
+          "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=80112&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=CLD&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkeqshI5Mpp3SzqsVh_C-mXgBI5Udpfj-MIzZR3cR3UnpAIh9Om5UWssBrJzi6OflQg&bapid=2&cs=14486264deef24a4e866f119bf541f30e",
+          "label": "Hotel website",
+          "type": "url"
+        }
+      ],
+      "mobile_contacts": []
+    },
+    "special_offers": {
+      "desktop": [
+        {
+          "headline": "Stay 2 Nights or More and Save! ",
+          "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.80112-a_offer.8105030-a_trafficSource.ba",
+          "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=80112&from=api&area=OID:8105030%7COT:4&slot=1&matchID=1&oos=0&cnt=1&silo=30356&bucket=875171&ubucket=875171&nrank=1&crank=1&clt=SOID&tm=174231226&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkeqshI5Mpp3SzqsVh_C-mXi0RxyPejKGhACbhAqK10hSC0QSgS6bdTKa6StjXW6nDw&cs=105f67e14c3e8921dbd0e8d17a0b6821f"
+        }
+      ],
+      "mobile": []
+    },
+    "listing_key": "e85696fc-0533-479f-9ea3-a6335b968f75"
+  },
+  {
+    "location_id": "1963673",
+    "name": "The Gotham Hotel",
+    "latitude": "40.755753",
+    "longitude": "-73.97793",
+    "num_reviews": "1155",
+    "timezone": "America/New_York",
+    "location_string": "New York City, New York",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/e2/76/a2/the-gotham-hotel.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/e2/76/a2/the-gotham-hotel.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "6016",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/16/e2/76/a2/the-gotham-hotel.jpg",
+          "height": "4016"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/e2/76/a2/the-gotham-hotel.jpg",
+          "height": "367"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/16/e2/76/a2/the-gotham-hotel.jpg",
+          "height": "167"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-03-20T10:55:08-0400",
+      "caption": "",
+      "id": "383940258",
+      "helpful_votes": "1",
+      "published_date": "2019-03-20T10:55:08-0400",
+      "user": { "user_id": null, "member_id": "0", "type": "user" }
+    },
+    "awards": [
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2018",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2018"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2017",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2017"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2013",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2013_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2013"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2012",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2012_en_US_large-0-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2012"
+      },
+      {
+        "award_type": "CERTIFICATE_OF_EXCELLENCE",
+        "year": "2011",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2011_en_US-0-5.png"
+        },
+        "categories": [],
+        "display_name": "Certificate of Excellence 2011"
+      }
+    ],
+    "preferred_map_engine": "default",
+    "raw_ranking": "4.094864368438721",
+    "ranking_geo": "New York City",
+    "ranking_geo_id": "60763",
+    "ranking_position": "24",
+    "ranking_denominator": "1947",
+    "ranking_category": "hotel",
+    "ranking": "#24 Best Value of 1,947 places to stay in New York City",
+    "subcategory_type": "hotel",
+    "subcategory_type_label": "Hotel",
+    "distance": "1.8194478778619236",
+    "distance_string": null,
+    "bearing": "south",
+    "rating": "4.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$$$",
+    "price": "$178 - $592",
+    "neighborhood_info": [
+      { "location_id": "7102352", "name": "Midtown" },
+      { "location_id": "20933769", "name": "Manhattan" }
+    ],
+    "hotel_class": "4.0",
+    "business_listings": { "desktop_contacts": [], "mobile_contacts": [] },
+    "special_offers": { "desktop": [], "mobile": [] },
+    "listing_key": "a0ad8f72-d375-4e4d-82a6-136fcede8454"
+  }
+]
