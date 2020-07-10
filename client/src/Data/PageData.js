@@ -1,4 +1,3 @@
-// import defaultImg from '../Assets/Images/defaultImg.jpg'
 import allInclusives from '../Assets/Images/allInclusives.jpg'
 import fishingTrips from '../Assets/Images/fishingTrips.jpg'
 import golfPackages from '../Assets/Images/golfPackages.jpg'
@@ -27,7 +26,7 @@ export default {
       background:
         'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-right',
       heroText:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+        'When you need a break from the fast, hectic pace of everyday life, Caribbean island destinations are the perfect getaway. Their clear blue water, white sandy beaches and swaying palms make them one of the most prestigious tourist destinations in the world.',
       heroTextPos: 'md:justify-end items-center',
       heroTextSize: 'md:w-1/3 md:mr-16 lg:mr-64',
     },
@@ -40,7 +39,7 @@ export default {
       background:
         'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-left',
       heroText:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+        'Paris - Rome - Barcelona - London - Dublin.  The national diversity, natural beauty, amazing history and culinary spectrum are sure to leave any tourist giddy with wonder.',
       heroTextPos: 'md:justify-start items-center',
       heroTextSize: 'md:w-1/3 md:ml-16 lg:ml-48',
     },
@@ -53,7 +52,7 @@ export default {
       background:
         'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-left',
       heroText:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+        "Take a trip to the most populous continent on earth and discover the rich cultures that span 30% of the Earth's land area.",
       heroTextPos: 'md:justify-start items-center',
       heroTextSize: 'md:w-1/3 md:ml-16 lg:ml-48',
     },
@@ -66,7 +65,7 @@ export default {
       background:
         'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-left',
       heroText:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+        'From the Alaskan frontier, to the Vancourver sounds, to the hustle of New York or the excitement of Las Vegas. Our home continent has a vast amount of destination choices for the modern traveler.',
       heroTextPos: 'md:justify-start items-center md:items-start',
       heroTextSize: 'md:w-1/2 md:ml-16 lg:ml-48 md:mt-24 lg:mt-48',
     },
@@ -227,7 +226,7 @@ export default {
       heroText:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
       heroTextPos: 'md:justify-end items-center',
-      heroTextSize: 'md:w-1/2 lg:w-1/3  md:mr-8',
+      heroTextSize: 'lg:w-1/2 md:mr-8',
     },
   ],
 }
