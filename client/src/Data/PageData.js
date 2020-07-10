@@ -23,11 +23,11 @@ export default {
       name: 'Caribbean',
       heroImg: caribbean,
       heroAlt: 'Caribbean Destinations by Travel Experience Co.',
-      heroImgPos: 'bg-left md:bg-top',
+      heroImgPos: 'bg-center md:bg-right md:bg-top',
       background:
         'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-right',
       heroText:
-        "Uncrowded white-sand beaches, excellent snorkeling, sailing, windsurfing, fishing, and coral reef viewing are Anguilla's main water attractions.",
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
       heroTextPos: 'md:justify-end items-center',
       heroTextSize: 'md:w-1/3 md:mr-16 lg:mr-64',
     },
@@ -49,7 +49,7 @@ export default {
       name: 'Asia',
       heroImg: asia,
       heroAlt: 'Asian Destinations by Travel Experience Co.',
-      heroImgPos: 'bg-bottom md:bg-left-top',
+      heroImgPos: 'bg-center md:bg-right',
       background:
         'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-left',
       heroText:
@@ -89,13 +89,13 @@ export default {
       name: 'Group Travel',
       heroImg: groupTravel,
       heroAlt: 'Group Travel by Travel Experience Co.',
-      heroImgPos: 'bg-bottom md:bg-left-bottom',
+      heroImgPos: 'bg-bottom',
       background:
         'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-top',
       heroText:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-      heroTextPos: 'md:justify-start items-center md:items-start',
-      heroTextSize: 'md:w-1/2 lg:w-1/3 md:mt-16 lg:mt-24 md:ml-8',
+      heroTextPos: 'md:justify-start items-start',
+      heroTextSize: 'md:w-1/2 lg:w-1/3 md:mt-16 mt-24 md:ml-8',
     },
     {
       id: 2,
@@ -108,20 +108,20 @@ export default {
       heroText:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
       heroTextPos: 'md:justify-start items-center md:items-end',
-      heroTextSize: 'md:w-3/5 lg:w-2/5 md:mb-24 md:ml-8',
+      heroTextSize: 'md:w-3/5 lg:w-2/5 md:mb-16 md:ml-8',
     },
     {
       id: 3,
       name: 'Family Travel',
       heroImg: familyTravel,
       heroAlt: 'Family Travel by Travel Experience Co.',
-      heroImgPos: 'bg-bottom md:bg-left-bottom',
+      heroImgPos: 'bg-right-bottom md:bg-right',
       background:
-        'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-bottom',
+        'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-left',
       heroText:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-      heroTextPos: 'md:justify-start items-center md:items-end',
-      heroTextSize: 'md:w-1/2 lg:w-1/3 md:mb-24 md:ml-8',
+      heroTextPos: 'md:justify-start items-end md:items-start',
+      heroTextSize: 'md:w-1/2 lg:w-1/3 mb-24 md:mt-24 md:ml-8',
     },
     {
       id: 4,
@@ -156,7 +156,7 @@ export default {
       name: 'All Inclusives',
       heroImg: allInclusives,
       heroAlt: 'All Inclusives Travel by Travel Experience Co.',
-      heroImgPos: 'bg-center',
+      heroImgPos: 'bg-right',
       background:
         'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-left',
       heroText:
@@ -169,12 +169,12 @@ export default {
       name: 'Fishing Trips',
       heroImg: fishingTrips,
       heroAlt: 'Fishing Trip Packages by Travel Experience Co.',
-      heroImgPos: 'bg-right md:bg-top',
+      heroImgPos: 'bg-center',
       background:
-        'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-left',
+        'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-right',
       heroText:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-      heroTextPos: 'md:justify-start items-center',
+      heroTextPos: 'md:justify-end items-center',
       heroTextSize: 'md:w-1/2 lg:w-2/5 md:ml-16 lg:ml-24',
     },
     {
@@ -182,7 +182,7 @@ export default {
       name: 'Golf Packages',
       heroImg: golfPackages,
       heroAlt: 'Golfing Packages by Travel Experience Co.',
-      heroImgPos: 'bg-center md:bg-top',
+      heroImgPos: 'bg-top-left',
       background:
         'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-right',
       heroText:
@@ -195,7 +195,7 @@ export default {
       name: 'Bed & Breakfast',
       heroImg: bedAndBreakfast,
       heroAlt: 'Bed & Breakfast Packages by Travel Experience Co.',
-      heroImgPos: 'bg-bottom',
+      heroImgPos: 'bg-center md:bg-left',
       background:
         'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-left',
       heroText:
@@ -208,26 +208,26 @@ export default {
       name: 'Cruises',
       heroImg: cruises,
       heroAlt: 'Cruise Packages by Travel Experience Co.',
-      heroImgPos: 'bg-top',
+      heroImgPos: 'bg-center lg:bg-top-right',
       background:
-        'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-top',
+        'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-right',
       heroText:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-      heroTextPos: 'md:justify-start items-center md:items-start',
-      heroTextSize: 'md:w-1/2 lg:w-1/3 md:mt-16 lg:mt-24 md:ml-8',
+      heroTextPos: 'md:justify-end items-start',
+      heroTextSize: 'md:w-1/2 lg:w-1/3 mt-16 md:mr-8',
     },
     {
       id: 6,
       name: 'Ski Packages',
       heroImg: skiPackages,
       heroAlt: 'Snow Ski Packages by Travel Experience Co.',
-      heroImgPos: 'bg-top',
+      heroImgPos: 'bg-left-bottom',
       background:
-        'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-top',
+        'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-right',
       heroText:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-      heroTextPos: 'md:justify-start items-center md:items-start',
-      heroTextSize: 'md:w-1/2 lg:w-1/3 md:mt-16 lg:mt-24 md:ml-8',
+      heroTextPos: 'md:justify-end items-center',
+      heroTextSize: 'md:w-1/2 lg:w-1/3  md:mr-8',
     },
   ],
 }
