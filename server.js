@@ -11,8 +11,8 @@ connectDB()
 const PORT = process.env.PORT || 4000
 
 //Init middleware
-app.use(morgan('dev'))
-app.use(express.json({ extended: false }))
+// app.use(morgan('dev'))
+// app.use(express.json({ extended: false }))
 
 // app.get('/', (req, res, next) => {
 //   res.json({
@@ -21,7 +21,7 @@ app.use(express.json({ extended: false }))
 // })
 
 //Define routes
-app.use('/api/caribbean', require('./api/routes/caribbean'))
+// app.use('/api/caribbean', require('./api/routes/caribbean'))
 
 //serve static assets in production
 if (process.env.NODE_ENV === 'production') {
