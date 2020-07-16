@@ -1,12 +1,12 @@
 const express = require('express')
-const connectDB = require('./config/database')
+// const connectDB = require('./config/database')
 const path = require('path')
-const morgan = require('morgan')
+// const morgan = require('morgan')
 
 const app = express()
 
 //Connect to MongoDB
-connectDB()
+// connectDB()
 
 const PORT = process.env.PORT || 4000
 
