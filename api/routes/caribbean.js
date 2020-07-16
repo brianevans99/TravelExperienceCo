@@ -1,10 +1,11 @@
 const express = require('express')
+const axios = require('axios')
 const router = express.Router()
-const Hotel = require('../models/hotel')
+const Caribbean = require('../models/caribbean')
 const mongoose = require('mongoose')
 
 router.get('/', (req, res) => {
-  Hotel.find()
+  Caribbean.find()
     .exec()
     .then((docs) => {
       res.status(200).json({
@@ -25,16 +26,23 @@ router.get('/', (req, res) => {
 })
 
 router.post('/', (req, res, next) => {
-  const hotel = new Hotel({
-    _id: mongoose.Types.ObjectId(),
-    name: req.body.name,
+  axios({
+    method: 'GET',
+    url: 'http://jsonplaceholder.typicode.com/users',
   })
-  return hotel
-    .save()
+    .then((response) => {
+      response.data.map((data) => {
+        const newData = new Caribbean({
+          _id: new mongoose.Types.ObjectId(),
+          name: data.name,
+        })
+        newData.save()
+      })
+    })
     .then((result) => {
-      console.log(result)
       res.status(201).json({
-        message: 'Hotel data created',
+        message: 'data received',
+        createdData: result,
       })
     })
     .catch((err) => {
@@ -46,7 +54,7 @@ router.post('/', (req, res, next) => {
 })
 
 router.delete('/', (req, res, next) => {
-  Hotel.remove()
+  Caribbean.remove()
     .exec()
     .then((result) => {
       res.status(200).json({

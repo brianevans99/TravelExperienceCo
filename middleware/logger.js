@@ -9,7 +9,7 @@ const logger = (req, res, next) => {
   let names = data.map(
     (person) => `${person.name},${person.email},${person.company.catchPhrase}`
   )
-  //   console.log(names)
+  console.log(names)
   next()
 }
 

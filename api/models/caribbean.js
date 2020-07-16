@@ -1,8 +1,8 @@
 const mongoose = require('mongoose')
 
-const hotelSchema = mongoose.Schema({
+const caribbeanSchema = mongoose.Schema({
   _id: mongoose.Schema.Types.ObjectId,
   name: { type: String, required: true },
 })
 
-module.exports = mongoose.model('Hotel', hotelSchema)
+module.exports = mongoose.model('Caribbean', caribbeanSchema)
