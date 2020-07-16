@@ -14,11 +14,11 @@ const PORT = process.env.PORT || 4000
 app.use(morgan('dev'))
 app.use(express.json({ extended: false }))
 
-app.get('/', (req, res, next) => {
-  res.json({
-    message: 'backend connection good',
-  })
-})
+// app.get('/', (req, res, next) => {
+//   res.json({
+//     message: 'backend connection good',
+//   })
+// })
 
 //Define routes
 app.use('/api/caribbean', require('./api/routes/caribbean'))
