@@ -30,7 +30,6 @@
     "watch:css": "postcss src/Styles/tailwind.css -o src/Styles/main.css",
     "build:css": "postcss src/Styles/tailwind.css -o src/Styles/main.css"
   },
-  "proxy": "http://localhost:4000",
   "eslintConfig": {
     "extends": "react-app"
   },
