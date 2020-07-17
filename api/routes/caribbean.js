@@ -3,6 +3,8 @@ const axios = require('axios')
 const router = express.Router()
 const Caribbean = require('../models/caribbean')
 const mongoose = require('mongoose')
+const dotenv = require('dotenv').config()
+const apiKey = process.env.RAPID_API_KEY
 
 router.get('/', (req, res) => {
   Caribbean.find()
@@ -13,7 +15,11 @@ router.get('/', (req, res) => {
         data: docs.map((doc) => {
           return {
             _id: doc._id,
+            location_id: doc.location_id,
             name: doc.name,
+            photoUrl: doc.photoUrl,
+            price: doc.price,
+            headline: doc.headline,
           }
         }),
       })
@@ -28,13 +34,35 @@ router.get('/', (req, res) => {
 router.post('/', (req, res, next) => {
   axios({
     method: 'GET',
-    url: 'http://jsonplaceholder.typicode.com/users',
+    url: 'https://tripadvisor1.p.rapidapi.com/hotels/list-in-boundary',
+    headers: {
+      'content-type': 'application/json',
+      'x-rapidapi-host': 'tripadvisor1.p.rapidapi.com',
+      'x-rapidapi-key': apiKey,
+    },
+    params: {
+      currency: 'USD',
+      limit: '30',
+      subcategory: 'hotel%2Cbb%2Cspecialty',
+      hotel_class: '4,5',
+      tr_latitude: 32.408,
+      tr_longitude: -64.619,
+      bl_latitude: 32.216,
+      bl_longitude: -64.927,
+    },
   })
     .then((response) => {
-      response.data.map((data) => {
+      const data = response.data.data
+      data.map((data) => {
         const newData = new Caribbean({
           _id: new mongoose.Types.ObjectId(),
+          location_id: data.location_id,
           name: data.name,
+          photoUrl: data.photo.images.original.url,
+          price: data.price,
+          headline:
+            data.special_offers.desktop.length > 0 &&
+            data.special_offers.desktop[0].headline,
         })
         newData.save()
       })
