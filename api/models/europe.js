@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const caribbeanSchema = mongoose.Schema({
+const europeSchema = mongoose.Schema({
   _id: mongoose.Schema.Types.ObjectId,
   location_id: { type: String, required: true },
   name: { type: String, required: true },
@@ -9,4 +9,4 @@ const caribbeanSchema = mongoose.Schema({
   headline: { type: String, required: false },
 })
 
-module.exports = mongoose.model('Caribbean', caribbeanSchema)
+module.exports = mongoose.model('Europe', europeSchema)

@@ -16,6 +16,8 @@ app.use(express.json({ extended: false }))
 
 //Define routes
 app.use('/api/caribbean', require('./api/routes/caribbean'))
+app.use('/api/europe', require('./api/routes/europe'))
+app.use('/api/australia', require('./api/routes/australia'))
 
 //serve static assets in production
 if (process.env.NODE_ENV === 'production') {

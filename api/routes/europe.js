@@ -1,13 +1,13 @@
 const express = require('express')
 const axios = require('axios')
 const router = express.Router()
-const Caribbean = require('../models/caribbean')
+const Europe = require('../models/europe')
 const mongoose = require('mongoose')
 const dotenv = require('dotenv').config()
 const apiKey = process.env.RAPID_API_KEY
 
 router.get('/', (req, res) => {
-  Caribbean.find()
+  Europe.find()
     .exec()
     .then((docs) => {
       res.status(200).json({
@@ -45,16 +45,16 @@ router.post('/', (req, res, next) => {
       limit: '30',
       subcategory: 'hotel%2Cbb%2Cspecialty',
       hotel_class: '4,5',
-      tr_latitude: 32.408,
-      tr_longitude: -64.619,
-      bl_latitude: 32.216,
-      bl_longitude: -64.927,
+      tr_latitude: 58.018,
+      tr_longitude: 15.005,
+      bl_latitude: 37.211,
+      bl_longitude: -9.604,
     },
   })
     .then((response) => {
       const data = response.data.data
       data.map((data) => {
-        const newData = new Caribbean({
+        const newData = new Europe({
           _id: new mongoose.Types.ObjectId(),
           location_id: data.location_id,
           name: data.name,
@@ -69,7 +69,7 @@ router.post('/', (req, res, next) => {
     })
     .then((result) => {
       res.status(201).json({
-        message: 'Caribbean data received',
+        message: 'Europe data received',
       })
     })
     .catch((err) => {
@@ -81,11 +81,11 @@ router.post('/', (req, res, next) => {
 })
 
 router.delete('/', (req, res, next) => {
-  Caribbean.remove()
+  Europe.remove()
     .exec()
     .then((result) => {
       res.status(200).json({
-        message: 'All Caribbean data deleted',
+        message: 'All Europe data deleted',
       })
     })
     .catch((err) => {
