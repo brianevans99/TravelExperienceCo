@@ -2,7 +2,9 @@ const express = require('express')
 const axios = require('axios')
 const router = express.Router()
 const Caribbean = require('../models/caribbean')
+const Timestamp = require('../models/timestamp')
 const mongoose = require('mongoose')
+const moment = require('moment')
 const dotenv = require('dotenv').config()
 const apiKey = process.env.RAPID_API_KEY
 
@@ -56,6 +58,7 @@ router.post('/', (req, res, next) => {
       data.map((data) => {
         const newData = new Caribbean({
           _id: new mongoose.Types.ObjectId(),
+          timestamp: new Date(),
           location_id: data.location_id,
           name: data.name,
           photoUrl: data.photo.images.original.url,
@@ -66,6 +69,12 @@ router.post('/', (req, res, next) => {
         })
         newData.save()
       })
+      const timestamp = new Timestamp({
+        _id: new mongoose.Types.ObjectId(),
+        update: moment().format(),
+      })
+      timestamp.save()
+      console.log(timestamp)
     })
     .then((result) => {
       res.status(201).json({
@@ -81,7 +90,7 @@ router.post('/', (req, res, next) => {
 })
 
 router.delete('/', (req, res, next) => {
-  Caribbean.remove()
+  Caribbean.deleteMany()
     .exec()
     .then((result) => {
       res.status(200).json({
