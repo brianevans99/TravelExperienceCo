@@ -38,12 +38,7 @@ export default class Australia extends Component {
   }
 
   componentDidMount() {
-    this.getData(
-      this.state.tr_latitude,
-      this.state.tr_longitude,
-      this.state.bl_latitude,
-      this.state.bl_longitude
-    )
+    this.getData()
   }
 
   render() {

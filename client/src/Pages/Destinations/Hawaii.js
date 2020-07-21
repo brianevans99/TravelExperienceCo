@@ -32,18 +32,12 @@ export default class Hawaii extends Component {
         location_id: '28932',
       },
     }).then((res) => {
-      console.log(res.data.data)
       this.setState({ hotels: res.data.data })
     })
   }
 
   componentDidMount() {
-    this.getData(
-      this.state.tr_latitude,
-      this.state.tr_longitude,
-      this.state.bl_latitude,
-      this.state.bl_longitude
-    )
+    this.getData()
   }
 
   render() {
