@@ -29,8 +29,8 @@ export default {
         },
         {
           id: 4,
-          name: 'North America',
-          pageLink: 'north-america',
+          name: 'Hawaii',
+          pageLink: 'hawaii',
         },
         {
           id: 5,

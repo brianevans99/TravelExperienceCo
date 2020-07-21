@@ -7,7 +7,7 @@ import HomePage from './Pages/HomePage/HomePage'
 import Caribbean from './Pages/Destinations/Caribbean'
 import Europe from './Pages/Destinations/Europe'
 import Asia from './Pages/Destinations/Asia'
-import NorthAmerica from './Pages/Destinations/NorthAmerica'
+import Hawaii from './Pages/Destinations/Hawaii'
 import Australia from './Pages/Destinations/Australia'
 import AllInclusives from './Pages/Vacations/AllInclusives'
 import FishingTrips from './Pages/Vacations/FishingTrips'
@@ -62,10 +62,7 @@ class App extends Component {
             <Route path='/destinations/caribbean' component={Caribbean} />
             <Route path='/destinations/asia' component={Asia} />
             <Route path='/destinations/europe' component={Europe} />
-            <Route
-              path='/destinations/north-america'
-              component={NorthAmerica}
-            />
+            <Route path='/destinations/hawaii' component={Hawaii} />
             <Route path='/destinations/australia' component={Australia} />
             <Route path='/vacations/all-inclusives' component={AllInclusives} />
             <Route path='/vacations/fishing-trips' component={FishingTrips} />

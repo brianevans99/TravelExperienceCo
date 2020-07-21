@@ -4,10 +4,10 @@ import PageData from '../../Data/PageData'
 import Axios from 'axios'
 import Spinner from '../../Components/Spinner/Spinner'
 
-export default class Caribbean extends Component {
+export default class Hawaii extends Component {
   state = {
     data: PageData.destinations,
-    pageName: 'Caribbean',
+    pageName: 'Hawaii',
     hotels: [],
   }
   getData = () => {
@@ -29,7 +29,7 @@ export default class Caribbean extends Component {
         order: 'asc',
         lang: 'en_US',
         sort: 'recommended',
-        location_id: '147237',
+        location_id: '28932',
       },
     }).then((res) => {
       console.log(res.data.data)

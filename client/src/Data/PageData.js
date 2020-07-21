@@ -7,7 +7,7 @@ import skiPackages from '../Assets/Images/skiPackages.jpg'
 import caribbean from '../Assets/Images/caribbean.jpg'
 import europe from '../Assets/Images/europe.jpg'
 import asia from '../Assets/Images/asia.jpg'
-import northAmerica from '../Assets/Images/northAmerica.jpg'
+import hawaii from '../Assets/Images/hawaii.jpg'
 import australia from '../Assets/Images/australia.jpg'
 import groupTravel from '../Assets/Images/groupTravel.jpg'
 import familyTravel from '../Assets/Images/familyTravel.jpg'
@@ -58,10 +58,10 @@ export default {
     },
     {
       id: 4,
-      name: 'North America',
-      heroImg: northAmerica,
-      heroAlt: 'North American Destinations by Travel Experience Co.',
-      heroImgPos: 'bg-bottom md:bg-right-top',
+      name: 'Hawaii',
+      heroImg: hawaii,
+      heroAlt: 'Hawaiian Destinations by Travel Experience Co.',
+      heroImgPos: 'bg-center md:bg-right',
       background:
         'bg-black md:bg-transparent bg-opacity-50 md:bg-opacity-0 md:dark-left',
       heroText:
