@@ -2,7 +2,6 @@ import React, { Component, Fragment } from 'react'
 import TopHero from '../../Components/TopHero/TopHero'
 import PageData from '../../Data/PageData'
 import Axios from 'axios'
-import Spinner from '../../Components/Spinner/Spinner'
 
 export default class FishingTrips extends Component {
   state = {

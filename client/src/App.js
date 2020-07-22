@@ -4,6 +4,7 @@ import Toolbar from './Components/Toolbar/Toolbar'
 import SideDrawer from './Components/SideDrawer/SideDrawer'
 import Backdrop from './Components/Backdrop/Backdrop'
 import HomePage from './Pages/HomePage/HomePage'
+import AboutPage from './Pages/AboutPage/AboutPage'
 import Caribbean from './Pages/Destinations/Caribbean'
 import Europe from './Pages/Destinations/Europe'
 import Asia from './Pages/Destinations/Asia'
@@ -59,6 +60,7 @@ class App extends Component {
         <ScrollToTop>
           <Switch>
             <Route exact path='/' component={HomePage} />
+            <Route path='/about' component={AboutPage} />
             <Route path='/destinations/caribbean' component={Caribbean} />
             <Route path='/destinations/asia' component={Asia} />
             <Route path='/destinations/europe' component={Europe} />

@@ -2,7 +2,6 @@ import React, { Component, Fragment } from 'react'
 import TopHero from '../../Components/TopHero/TopHero'
 import PageData from '../../Data/PageData'
 import Axios from 'axios'
-import Spinner from '../../Components/Spinner/Spinner'
 
 export default class Australia extends Component {
   state = {
@@ -67,20 +66,16 @@ export default class Australia extends Component {
         <div className='flex flex-wrap flex-col md:flex-row justify-center'>
           {this.state.hotels.map((hotel) => (
             <div className='bg-black text-white w-full md:w-1/2 lg:w-1/3'>
-              {!hotel.photo.images.large.url ? (
-                <Spinner />
-              ) : (
-                <div
-                  key={hotel.location_id}
-                  className='bg-blue-400 mt-2'
-                  style={{
-                    background: `black url(${hotel.photo.images.large.url}) no-repeat center`,
-                    backgroundSize: 'cover',
-                    width: '95%',
-                    height: '250px',
-                  }}
-                ></div>
-              )}
+              <div
+                key={hotel.location_id}
+                className='bg-blue-400 mt-2'
+                style={{
+                  background: `black url(${hotel.photo.images.large.url}) no-repeat center`,
+                  backgroundSize: 'cover',
+                  width: '95%',
+                  height: '250px',
+                }}
+              ></div>
               <div style={{ height: '200px' }} className='px-2'>
                 <div className='uppercase text-2xl font-bold'>{`${hotel.name} ${hotel.subcategory_type}`}</div>
                 <div>located in {hotel.ranking_geo}</div>

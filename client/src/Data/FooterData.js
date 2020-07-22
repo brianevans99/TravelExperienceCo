@@ -5,7 +5,7 @@ export default {
       name: 'About',
       link: 'about',
     },
-    { id: 2, name: 'Contact Us', link: 'contact-us' },
+    { id: 2, name: 'Contact Us', link: 'contact' },
     { id: 3, name: 'Travel Protection', link: 'travel-protection' },
     { id: 4, name: 'Privacy Policy', link: 'privacy-policy' },
     { id: 5, name: 'Terms of Use', link: 'terms-of-use' },

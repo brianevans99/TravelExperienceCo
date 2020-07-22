@@ -2,7 +2,6 @@ import React, { Component, Fragment } from 'react'
 import TopHero from '../../Components/TopHero/TopHero'
 import PageData from '../../Data/PageData'
 import Axios from 'axios'
-import Spinner from '../../Components/Spinner/Spinner'
 
 export default class CorporateTravel extends Component {
   state = {
@@ -81,7 +80,7 @@ export default class CorporateTravel extends Component {
                 <div>located in {hotel.result_object.location_string}</div>
                 <div>{`Customer review: "${hotel.review_snippet.snippet}"`}</div>
                 <div>Rated {hotel.result_object.rating} out of 5 stars!</div>
-              </div>{' '}
+              </div>
             </div>
           ))}
         </div>
