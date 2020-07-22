@@ -18,13 +18,13 @@ export default function Footer() {
     <div className='flex flex-col items-center justify-center bg-gray-900 px-2 md:px-16'>
       <div className='divide-y-4 divide-gray-500'>
         <div className='flex flex-col xl:flex-row py-4'>
-          <div className='flex justify-center lg:justify-start items-center lg:w-1/4'>
+          <div className='flex justify-center  items-center lg:w-1/3'>
             <img
               src={logo}
               className='h-8 md:h-12 m-2'
               alt='Travel Experience Co.'
             />
-            <span className='m-2 text-tecGreen-500 font-sans font-medium text-2xl'>
+            <span className='text-tecGreen-500 font-sans font-medium text-2xl'>
               Travel Experience Co.
             </span>
           </div>
@@ -34,7 +34,7 @@ export default function Footer() {
                 {footerLinks}
               </div>
             </div>
-            <div className='flex flex-1 flex-col justify-center'>
+            <div className='flex flex-1 flex-col justify-center mx-4'>
               <div className='text-white text-md'>
                 Sign up for special travel deals and announcements!
               </div>
