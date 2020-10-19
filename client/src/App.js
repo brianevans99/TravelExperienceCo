@@ -60,7 +60,7 @@ class App extends Component {
         <ScrollToTop>
           <Switch>
             <Route exact path='/' component={HomePage} />
-            <Route path='/about' component={AboutPage} />
+            {/* <Route path='/about' component={AboutPage} /> */}
             <Route path='/destinations/caribbean' component={Caribbean} />
             <Route path='/destinations/asia' component={Asia} />
             <Route path='/destinations/europe' component={Europe} />

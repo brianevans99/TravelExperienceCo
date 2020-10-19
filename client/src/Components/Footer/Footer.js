@@ -6,14 +6,17 @@ import logo from '../../Assets/Images/logo.png'
 import Moment from 'react-moment'
 
 export default function Footer() {
-  const footerLinks = footerData.footerLinks.map((item) => (
-    <span key={item.id} className='px-1 h-0'>
-      <Link className='hover:text-yellow-500' to={`/${item.link}`}>
-        {item.name}
-      </Link>
-      {' |'}
-    </span>
-  ))
+  const footerLinks = footerData.footerLinks.map(
+    (item) =>
+      item.active && (
+        <span key={item.id} className='px-1 h-0'>
+          <Link className='hover:text-yellow-500' to={`/${item.link}`}>
+            {item.name}
+          </Link>
+          {' |'}
+        </span>
+      )
+  )
   return (
     <div className='flex flex-col items-center justify-center bg-gray-900 px-2 md:px-16'>
       <div className='divide-y-4 divide-gray-500'>
@@ -34,7 +37,7 @@ export default function Footer() {
                 {footerLinks}
               </div>
             </div>
-            <div className='flex flex-1 flex-col justify-center mx-4'>
+            <div className='invisible flex flex-1 flex-col justify-center mx-4'>
               <div className='text-white text-md'>
                 Sign up for special travel deals and announcements!
               </div>

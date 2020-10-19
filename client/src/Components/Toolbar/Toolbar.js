@@ -41,7 +41,6 @@ function Toolbar(props) {
         <div className='md:hidden'>
           <DrawerToggleButton click={props.drawerToggleClickHandler} />
         </div>
-
         <div className='flex items-center'>
           <Link to='/'>
             <img
@@ -58,7 +57,10 @@ function Toolbar(props) {
           <div id='menuLinks' className='hidden md:flex'>
             <ul className='flex text-tecGreen-500 '>{pageLinks}</ul>
           </div>
-        </Styles>
+        </Styles>{' '}
+        <div className='hidden lg:flex font-semibold text-2xl text-gray-300'>
+          770.213.8787
+        </div>
         <div className='hidden md:flex justify-center items-center h-full'>
           {socialIcons}
         </div>

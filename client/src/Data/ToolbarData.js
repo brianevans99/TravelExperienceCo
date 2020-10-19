@@ -126,11 +126,11 @@ export default {
       url: 'https://twitter.com/TRAVELEXPCO',
       color: 'text-twitter',
     },
-    {
-      id: 4,
-      icon: <RiYoutubeLine />,
-      url: null,
-      color: 'text-youtube',
-    },
+    // {
+    //   id: 4,
+    //   icon: <RiYoutubeLine />,
+    //   url: null,
+    //   color: 'text-youtube',
+    // },
   ],
 }

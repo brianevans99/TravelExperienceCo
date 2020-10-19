@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import { FcPhone, FcCalendar, FcFeedback } from 'react-icons/fc'
 
 export default function Experience() {
@@ -28,7 +29,9 @@ export default function Experience() {
           </div>
 
           <div className='text-xl'>Contact By Email</div>
-          <div className='text-blue-700'>Get a Quote</div>
+          <Link to='/contact'>
+            <div className='text-blue-700'>Get a Quote</div>
+          </Link>
         </div>
         <div className='flex flex-col items-center px-2'>
           <div className='text-2xl'>
@@ -36,7 +39,10 @@ export default function Experience() {
           </div>
 
           <div className='text-xl'>We'll Call You</div>
-          <div className='text-blue-700'>Schedule an Appointment</div>
+
+          <Link to='/contact'>
+            <div className='text-blue-700'>Schedule an Appointment</div>
+          </Link>
         </div>
       </div>
     </div>
