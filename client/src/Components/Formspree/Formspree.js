@@ -50,7 +50,7 @@ export default class Formspree extends Component {
             style={{ display: this.state.showForm ? 'block' : 'none' }}
             className='self-center w-full'
             onSubmit={this.submitForm}
-            action='https://formspree.io/xrgyyoew'
+            action='https://formspree.io/f/mrgoqgad'
             method='POST'
           >
             <FormInput
