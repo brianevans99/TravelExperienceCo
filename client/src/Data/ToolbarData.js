@@ -3,7 +3,6 @@ import {
   RiInstagramLine,
   RiFacebookBoxLine,
   RiTwitterLine,
-  RiYoutubeLine,
 } from 'react-icons/ri'
 
 export default {
