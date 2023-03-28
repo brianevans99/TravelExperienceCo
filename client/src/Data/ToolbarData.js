@@ -119,12 +119,12 @@ export default {
       url: 'https://www.instagram.com/travel_experience_co/',
       color: 'text-instagram',
     },
-    {
-      id: 3,
-      icon: <RiTwitterLine />,
-      url: 'https://twitter.com/TRAVELEXPCO',
-      color: 'text-twitter',
-    },
+    // {
+    //   id: 3,
+    //   icon: <RiTwitterLine />,
+    //   url: 'https://twitter.com/TRAVELEXPCO',
+    //   color: 'text-twitter',
+    // },
     // {
     //   id: 4,
     //   icon: <RiYoutubeLine />,
